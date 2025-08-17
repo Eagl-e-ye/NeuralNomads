@@ -1,0 +1,1919 @@
+[
+  {
+    "date": "2025-08-18",
+    "bp": "119/87",
+    "hr": 78,
+    "weight": 74,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-08-18",
+      "duration": 6,
+      "quality": "Good"
+    },
+    "Total Cholesterol": 218.48,
+    "LDL": 139.62,
+    "HDL": 50.45,
+    "Triglycerides": 152.41,
+    "ApoB": 90.38,
+    "Fasting Glucose": 94.79,
+    "HbA1c": 5.67,
+    "Sugar Level": {
+      "Fasting": 94.79,
+      "HbA1c": 5.67
+    },
+    "ALT": 25.07,
+    "Creatinine": 1.02,
+    "TSH": 2.6,
+    "CRP": 1.39
+  },
+  {
+    "date": "2025-08-18",
+    "bp": "119/87",
+    "hr": 78,
+    "weight": 74,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-08-18",
+      "duration": 6,
+      "quality": "Good"
+    },
+    "Total Cholesterol": 218.48,
+    "LDL": 139.62,
+    "HDL": 50.45,
+    "Triglycerides": 152.41,
+    "ApoB": 90.38,
+    "Fasting Glucose": 94.79,
+    "HbA1c": 5.67,
+    "Sugar Level": {
+      "Fasting": 94.79,
+      "HbA1c": 5.67
+    },
+    "ALT": 25.07,
+    "Creatinine": 1.02,
+    "TSH": 2.6,
+    "CRP": 1.39
+  },
+  {
+    "date": "2025-08-18",
+    "bp": "119/87",
+    "hr": 78,
+    "weight": 74,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-08-18",
+      "duration": 6,
+      "quality": "Good"
+    },
+    "Total Cholesterol": 225.48,
+    "LDL": 134.62,
+    "HDL": 57.45,
+    "Triglycerides": 159.41,
+    "ApoB": 95.38,
+    "Fasting Glucose": 101.79,
+    "HbA1c": 4,
+    "Sugar Level": {
+      "Fasting": 101.79,
+      "HbA1c": 4
+    },
+    "ALT": 20.07,
+    "Creatinine": 1.02,
+    "TSH": 5.0,
+    "CRP": 3
+  },
+  {
+    "date": "2025-08-29",
+    "bp": "111/85",
+    "hr": 67,
+    "weight": 72.6,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-08-29",
+      "duration": 6,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 227.51,
+    "LDL": 130.89,
+    "HDL": 57.62,
+    "Triglycerides": 161.09,
+    "ApoB": 93.8,
+    "Fasting Glucose": 101.94,
+    "HbA1c": 4.08,
+    "Sugar Level": {
+      "Fasting": 101.94,
+      "HbA1c": 4.08
+    },
+    "ALT": 20.37,
+    "Creatinine": 1.1,
+    "TSH": 4.84,
+    "CRP": 2.83
+  },
+  {
+    "date": "2025-08-31",
+    "bp": "108/83",
+    "hr": 76,
+    "weight": 71.3,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-08-31",
+      "duration": 5,
+      "quality": "Good"
+    },
+    "Total Cholesterol": 226.3,
+    "LDL": 130.56,
+    "HDL": 58.36,
+    "Triglycerides": 157.13,
+    "ApoB": 92.77,
+    "Fasting Glucose": 102.64,
+    "HbA1c": 4.12,
+    "Sugar Level": {
+      "Fasting": 102.64,
+      "HbA1c": 4.12
+    },
+    "ALT": 20.03,
+    "Creatinine": 1.1,
+    "TSH": 4.92,
+    "CRP": 2.8
+  },
+  {
+    "date": "2025-09-01",
+    "bp": "110/84",
+    "hr": 63,
+    "weight": 71.0,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-09-01",
+      "duration": 7,
+      "quality": "Good"
+    },
+    "Total Cholesterol": 226.3,
+    "LDL": 130.56,
+    "HDL": 58.36,
+    "Triglycerides": 157.13,
+    "ApoB": 92.77,
+    "Fasting Glucose": 102.64,
+    "HbA1c": 4.12,
+    "Sugar Level": {
+      "Fasting": 102.64,
+      "HbA1c": 4.12
+    },
+    "ALT": 20.03,
+    "Creatinine": 1.1,
+    "TSH": 4.92,
+    "CRP": 2.8
+  },
+  {
+    "date": "2025-09-07",
+    "bp": "106/86",
+    "hr": 66,
+    "weight": 67.9,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-09-07",
+      "duration": 8,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 226.3,
+    "LDL": 130.56,
+    "HDL": 58.36,
+    "Triglycerides": 157.13,
+    "ApoB": 92.77,
+    "Fasting Glucose": 102.64,
+    "HbA1c": 4.12,
+    "Sugar Level": {
+      "Fasting": 102.64,
+      "HbA1c": 4.12
+    },
+    "ALT": 20.03,
+    "Creatinine": 1.1,
+    "TSH": 4.92,
+    "CRP": 2.8
+  },
+  {
+    "date": "2025-09-08",
+    "bp": "107/85",
+    "hr": 81,
+    "weight": 68.4,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-09-08",
+      "duration": 6,
+      "quality": "Good"
+    },
+    "Total Cholesterol": 226.3,
+    "LDL": 130.56,
+    "HDL": 58.36,
+    "Triglycerides": 157.13,
+    "ApoB": 92.77,
+    "Fasting Glucose": 102.64,
+    "HbA1c": 4.12,
+    "Sugar Level": {
+      "Fasting": 102.64,
+      "HbA1c": 4.12
+    },
+    "ALT": 20.03,
+    "Creatinine": 1.1,
+    "TSH": 4.92,
+    "CRP": 2.8
+  },
+  {
+    "date": "2025-09-08",
+    "bp": "107/85",
+    "hr": 81,
+    "weight": 68.4,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-09-08",
+      "duration": 6,
+      "quality": "Good"
+    },
+    "Total Cholesterol": 226.3,
+    "LDL": 130.56,
+    "HDL": 58.36,
+    "Triglycerides": 157.13,
+    "ApoB": 92.77,
+    "Fasting Glucose": 102.64,
+    "HbA1c": 4.12,
+    "Sugar Level": {
+      "Fasting": 102.64,
+      "HbA1c": 4.12
+    },
+    "ALT": 20.03,
+    "Creatinine": 1.1,
+    "TSH": 4.92,
+    "CRP": 2.8
+  },
+  {
+    "date": "2025-09-09",
+    "bp": "108/84",
+    "hr": 79,
+    "weight": 67.9,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-09-09",
+      "duration": 5,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 226.3,
+    "LDL": 130.56,
+    "HDL": 58.36,
+    "Triglycerides": 157.13,
+    "ApoB": 92.77,
+    "Fasting Glucose": 102.64,
+    "HbA1c": 4.12,
+    "Sugar Level": {
+      "Fasting": 102.64,
+      "HbA1c": 4.12
+    },
+    "ALT": 20.03,
+    "Creatinine": 1.1,
+    "TSH": 4.92,
+    "CRP": 2.8
+  },
+  {
+    "date": "2025-09-15",
+    "bp": "111/82",
+    "hr": 51,
+    "weight": 65.8,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-09-15",
+      "duration": 4,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 226.3,
+    "LDL": 130.56,
+    "HDL": 58.36,
+    "Triglycerides": 157.13,
+    "ApoB": 92.77,
+    "Fasting Glucose": 102.64,
+    "HbA1c": 4.12,
+    "Sugar Level": {
+      "Fasting": 102.64,
+      "HbA1c": 4.12
+    },
+    "ALT": 20.03,
+    "Creatinine": 1.1,
+    "TSH": 4.92,
+    "CRP": 2.8
+  },
+  {
+    "date": "2025-09-16",
+    "bp": "110/84",
+    "hr": 53,
+    "weight": 66.0,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-09-16",
+      "duration": 4,
+      "quality": "Good"
+    },
+    "Total Cholesterol": 226.3,
+    "LDL": 130.56,
+    "HDL": 58.36,
+    "Triglycerides": 157.13,
+    "ApoB": 92.77,
+    "Fasting Glucose": 102.64,
+    "HbA1c": 4.12,
+    "Sugar Level": {
+      "Fasting": 102.64,
+      "HbA1c": 4.12
+    },
+    "ALT": 20.03,
+    "Creatinine": 1.1,
+    "TSH": 4.92,
+    "CRP": 2.8
+  },
+  {
+    "date": "2025-09-22",
+    "bp": "110/91",
+    "hr": 93,
+    "weight": 66.0,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-09-22",
+      "duration": 8,
+      "quality": "Poor"
+    },
+    "Total Cholesterol": 227.36,
+    "LDL": 130.77,
+    "HDL": 59.12,
+    "Triglycerides": 161.9,
+    "ApoB": 92.75,
+    "Fasting Glucose": 102.26,
+    "HbA1c": 4.09,
+    "Sugar Level": {
+      "Fasting": 102.26,
+      "HbA1c": 4.09
+    },
+    "ALT": 20.4,
+    "Creatinine": 1.1,
+    "TSH": 4.94,
+    "CRP": 2.97
+  },
+  {
+    "date": "2025-09-26",
+    "bp": "107/91",
+    "hr": 93,
+    "weight": 65.5,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-09-26",
+      "duration": 5,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 226.08,
+    "LDL": 130.06,
+    "HDL": 59.04,
+    "Triglycerides": 165.46,
+    "ApoB": 91.8,
+    "Fasting Glucose": 102.68,
+    "HbA1c": 4.11,
+    "Sugar Level": {
+      "Fasting": 102.68,
+      "HbA1c": 4.11
+    },
+    "ALT": 19.79,
+    "Creatinine": 1.05,
+    "TSH": 4.94,
+    "CRP": 3
+  },
+  {
+    "date": "2025-09-29",
+    "bp": "106/91",
+    "hr": 93,
+    "weight": 65.4,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-09-29",
+      "duration": 8,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 226.08,
+    "LDL": 130.06,
+    "HDL": 59.04,
+    "Triglycerides": 165.46,
+    "ApoB": 91.8,
+    "Fasting Glucose": 102.68,
+    "HbA1c": 4.11,
+    "Sugar Level": {
+      "Fasting": 102.68,
+      "HbA1c": 4.11
+    },
+    "ALT": 19.79,
+    "Creatinine": 1.05,
+    "TSH": 4.94,
+    "CRP": 3
+  },
+  {
+    "date": "2025-09-29",
+    "bp": "106/91",
+    "hr": 93,
+    "weight": 65.4,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-09-29",
+      "duration": 8,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 226.08,
+    "LDL": 130.06,
+    "HDL": 59.04,
+    "Triglycerides": 165.46,
+    "ApoB": 91.8,
+    "Fasting Glucose": 102.68,
+    "HbA1c": 4.11,
+    "Sugar Level": {
+      "Fasting": 102.68,
+      "HbA1c": 4.11
+    },
+    "ALT": 19.79,
+    "Creatinine": 1.05,
+    "TSH": 4.94,
+    "CRP": 3
+  },
+  {
+    "date": "2025-10-01",
+    "bp": "105/90",
+    "hr": 87,
+    "weight": 65.8,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-10-01",
+      "duration": 5,
+      "quality": "Poor"
+    },
+    "Total Cholesterol": 226.08,
+    "LDL": 130.06,
+    "HDL": 59.04,
+    "Triglycerides": 165.46,
+    "ApoB": 91.8,
+    "Fasting Glucose": 102.68,
+    "HbA1c": 4.11,
+    "Sugar Level": {
+      "Fasting": 102.68,
+      "HbA1c": 4.11
+    },
+    "ALT": 19.79,
+    "Creatinine": 1.05,
+    "TSH": 4.94,
+    "CRP": 3
+  },
+  {
+    "date": "2025-10-03",
+    "bp": "105/91",
+    "hr": 76,
+    "weight": 65.5,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-10-03",
+      "duration": 4,
+      "quality": "Poor"
+    },
+    "Total Cholesterol": 226.08,
+    "LDL": 130.06,
+    "HDL": 59.04,
+    "Triglycerides": 165.46,
+    "ApoB": 91.8,
+    "Fasting Glucose": 102.68,
+    "HbA1c": 4.11,
+    "Sugar Level": {
+      "Fasting": 102.68,
+      "HbA1c": 4.11
+    },
+    "ALT": 19.79,
+    "Creatinine": 1.05,
+    "TSH": 4.94,
+    "CRP": 3
+  },
+  {
+    "date": "2025-10-07",
+    "bp": "102/93",
+    "hr": 85,
+    "weight": 65.2,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-10-07",
+      "duration": 7,
+      "quality": "Good"
+    },
+    "Total Cholesterol": 222.22,
+    "LDL": 129.9,
+    "HDL": 58.36,
+    "Triglycerides": 166.01,
+    "ApoB": 90.09,
+    "Fasting Glucose": 101.77,
+    "HbA1c": 4.2,
+    "Sugar Level": {
+      "Fasting": 101.77,
+      "HbA1c": 4.2
+    },
+    "ALT": 18.27,
+    "Creatinine": 1.03,
+    "TSH": 4.92,
+    "CRP": 3
+  },
+  {
+    "date": "2025-10-13",
+    "bp": "106/91",
+    "hr": 63,
+    "weight": 65.1,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-10-13",
+      "duration": 6,
+      "quality": "Good"
+    },
+    "Total Cholesterol": 222.22,
+    "LDL": 129.9,
+    "HDL": 58.36,
+    "Triglycerides": 166.01,
+    "ApoB": 90.09,
+    "Fasting Glucose": 101.77,
+    "HbA1c": 4.2,
+    "Sugar Level": {
+      "Fasting": 101.77,
+      "HbA1c": 4.2
+    },
+    "ALT": 18.27,
+    "Creatinine": 1.03,
+    "TSH": 4.92,
+    "CRP": 3
+  },
+  {
+    "date": "2025-10-15",
+    "bp": "108/93",
+    "hr": 50,
+    "weight": 66.1,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-10-15",
+      "duration": 7,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 222.22,
+    "LDL": 129.9,
+    "HDL": 58.36,
+    "Triglycerides": 166.01,
+    "ApoB": 90.09,
+    "Fasting Glucose": 101.77,
+    "HbA1c": 4.2,
+    "Sugar Level": {
+      "Fasting": 101.77,
+      "HbA1c": 4.2
+    },
+    "ALT": 18.27,
+    "Creatinine": 1.03,
+    "TSH": 4.92,
+    "CRP": 3
+  },
+  {
+    "date": "2025-10-20",
+    "bp": "108/99",
+    "hr": 50,
+    "weight": 66.5,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-10-20",
+      "duration": 8,
+      "quality": "Poor"
+    },
+    "Total Cholesterol": 223.47,
+    "LDL": 131.9,
+    "HDL": 58.91,
+    "Triglycerides": 169.69,
+    "ApoB": 89.66,
+    "Fasting Glucose": 100.77,
+    "HbA1c": 4.24,
+    "Sugar Level": {
+      "Fasting": 100.77,
+      "HbA1c": 4.24
+    },
+    "ALT": 19.22,
+    "Creatinine": 0.98,
+    "TSH": 4.99,
+    "CRP": 2.95
+  },
+  {
+    "date": "2025-10-21",
+    "bp": "107/97",
+    "hr": 50,
+    "weight": 67.0,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-10-21",
+      "duration": 4,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 223.47,
+    "LDL": 131.9,
+    "HDL": 58.91,
+    "Triglycerides": 169.69,
+    "ApoB": 89.66,
+    "Fasting Glucose": 100.77,
+    "HbA1c": 4.24,
+    "Sugar Level": {
+      "Fasting": 100.77,
+      "HbA1c": 4.24
+    },
+    "ALT": 19.22,
+    "Creatinine": 0.98,
+    "TSH": 4.99,
+    "CRP": 2.95
+  },
+  {
+    "date": "2025-10-27",
+    "bp": "103/101",
+    "hr": 60,
+    "weight": 63.9,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-10-27",
+      "duration": 8,
+      "quality": "Good"
+    },
+    "Total Cholesterol": 220.7,
+    "LDL": 132.52,
+    "HDL": 59.6,
+    "Triglycerides": 171.66,
+    "ApoB": 90.27,
+    "Fasting Glucose": 100.0,
+    "HbA1c": 4.28,
+    "Sugar Level": {
+      "Fasting": 100.0,
+      "HbA1c": 4.28
+    },
+    "ALT": 19.66,
+    "Creatinine": 0.94,
+    "TSH": 4.92,
+    "CRP": 3
+  },
+  {
+    "date": "2025-10-27",
+    "bp": "109/90",
+    "hr": 60,
+    "weight": 63.9,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-10-27",
+      "duration": 8,
+      "quality": "Good"
+    },
+    "Total Cholesterol": 220.7,
+    "LDL": 132.52,
+    "HDL": 59.6,
+    "Triglycerides": 171.66,
+    "ApoB": 90.27,
+    "Fasting Glucose": 100.0,
+    "HbA1c": 4.28,
+    "Sugar Level": {
+      "Fasting": 100.0,
+      "HbA1c": 4.28
+    },
+    "ALT": 19.66,
+    "Creatinine": 0.94,
+    "TSH": 4.92,
+    "CRP": 3
+  },
+  {
+    "date": "2025-10-28",
+    "bp": "111/93",
+    "hr": 61,
+    "weight": 63.6,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-10-28",
+      "duration": 8,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 220.7,
+    "LDL": 132.52,
+    "HDL": 59.6,
+    "Triglycerides": 171.66,
+    "ApoB": 90.27,
+    "Fasting Glucose": 100.0,
+    "HbA1c": 4.28,
+    "Sugar Level": {
+      "Fasting": 100.0,
+      "HbA1c": 4.28
+    },
+    "ALT": 19.66,
+    "Creatinine": 0.94,
+    "TSH": 4.92,
+    "CRP": 3
+  },
+  {
+    "date": "2025-10-28",
+    "bp": "112/94",
+    "hr": 61,
+    "weight": 63.6,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-10-28",
+      "duration": 8,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 220.7,
+    "LDL": 132.52,
+    "HDL": 59.6,
+    "Triglycerides": 171.66,
+    "ApoB": 90.27,
+    "Fasting Glucose": 100.0,
+    "HbA1c": 4.28,
+    "Sugar Level": {
+      "Fasting": 100.0,
+      "HbA1c": 4.28
+    },
+    "ALT": 19.66,
+    "Creatinine": 0.94,
+    "TSH": 4.92,
+    "CRP": 3
+  },
+  {
+    "date": "2025-11-05",
+    "bp": "115/97",
+    "hr": 97,
+    "weight": 63.8,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-11-05",
+      "duration": 5,
+      "quality": "Poor"
+    },
+    "Total Cholesterol": 220.7,
+    "LDL": 132.52,
+    "HDL": 59.6,
+    "Triglycerides": 171.66,
+    "ApoB": 90.27,
+    "Fasting Glucose": 100.0,
+    "HbA1c": 4.28,
+    "Sugar Level": {
+      "Fasting": 100.0,
+      "HbA1c": 4.28
+    },
+    "ALT": 19.66,
+    "Creatinine": 0.94,
+    "TSH": 4.92,
+    "CRP": 3
+  },
+  {
+    "date": "2025-11-10",
+    "bp": "120/89",
+    "hr": 100,
+    "weight": 62.7,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-11-10",
+      "duration": 6,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 217.9,
+    "LDL": 133.13,
+    "HDL": 59.48,
+    "Triglycerides": 169.65,
+    "ApoB": 90.54,
+    "Fasting Glucose": 99.2,
+    "HbA1c": 4.33,
+    "Sugar Level": {
+      "Fasting": 99.2,
+      "HbA1c": 4.33
+    },
+    "ALT": 20.03,
+    "Creatinine": 0.95,
+    "TSH": 5.0,
+    "CRP": 3
+  },
+  {
+    "date": "2025-11-10",
+    "bp": "110/95",
+    "hr": 100,
+    "weight": 62.7,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-11-10",
+      "duration": 6,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 217.9,
+    "LDL": 133.13,
+    "HDL": 59.48,
+    "Triglycerides": 169.65,
+    "ApoB": 90.54,
+    "Fasting Glucose": 99.2,
+    "HbA1c": 4.33,
+    "Sugar Level": {
+      "Fasting": 99.2,
+      "HbA1c": 4.33
+    },
+    "ALT": 20.03,
+    "Creatinine": 0.95,
+    "TSH": 5.0,
+    "CRP": 3
+  },
+  {
+    "date": "2025-11-16",
+    "bp": "107/93",
+    "hr": 100,
+    "weight": 63.1,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-11-16",
+      "duration": 8,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 217.9,
+    "LDL": 133.13,
+    "HDL": 59.48,
+    "Triglycerides": 169.65,
+    "ApoB": 90.54,
+    "Fasting Glucose": 99.2,
+    "HbA1c": 4.33,
+    "Sugar Level": {
+      "Fasting": 99.2,
+      "HbA1c": 4.33
+    },
+    "ALT": 20.03,
+    "Creatinine": 0.95,
+    "TSH": 5.0,
+    "CRP": 3
+  },
+  {
+    "date": "2025-11-24",
+    "bp": "112/104",
+    "hr": 88,
+    "weight": 62.1,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-11-24",
+      "duration": 6,
+      "quality": "Good"
+    },
+    "Total Cholesterol": 218.1,
+    "LDL": 140.26,
+    "HDL": 54.44,
+    "Triglycerides": 165.03,
+    "ApoB": 91.05,
+    "Fasting Glucose": 104.78,
+    "HbA1c": 4.37,
+    "Sugar Level": {
+      "Fasting": 104.78,
+      "HbA1c": 4.37
+    },
+    "ALT": 20.46,
+    "Creatinine": 0.95,
+    "TSH": 0.51,
+    "CRP": 2.84
+  },
+  {
+    "date": "2025-11-27",
+    "bp": "116/102",
+    "hr": 78,
+    "weight": 61.9,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-11-27",
+      "duration": 6,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 218.1,
+    "LDL": 140.26,
+    "HDL": 54.44,
+    "Triglycerides": 165.03,
+    "ApoB": 91.05,
+    "Fasting Glucose": 104.78,
+    "HbA1c": 4.37,
+    "Sugar Level": {
+      "Fasting": 104.78,
+      "HbA1c": 4.37
+    },
+    "ALT": 20.46,
+    "Creatinine": 0.95,
+    "TSH": 0.51,
+    "CRP": 2.84
+  },
+  {
+    "date": "2025-12-01",
+    "bp": "115/90",
+    "hr": 81,
+    "weight": 62.0,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-12-01",
+      "duration": 5,
+      "quality": "Good"
+    },
+    "Total Cholesterol": 215.37,
+    "LDL": 142.67,
+    "HDL": 53.56,
+    "Triglycerides": 168.23,
+    "ApoB": 92.16,
+    "Fasting Glucose": 105.68,
+    "HbA1c": 4.43,
+    "Sugar Level": {
+      "Fasting": 105.68,
+      "HbA1c": 4.43
+    },
+    "ALT": 20.63,
+    "Creatinine": 0.92,
+    "TSH": 0.5,
+    "CRP": 2.67
+  },
+  {
+    "date": "2025-12-08",
+    "bp": "116/93",
+    "hr": 98,
+    "weight": 61.8,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-12-08",
+      "duration": 5,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 214.18,
+    "LDL": 144.2,
+    "HDL": 53.82,
+    "Triglycerides": 165.07,
+    "ApoB": 92.37,
+    "Fasting Glucose": 105.74,
+    "HbA1c": 4.42,
+    "Sugar Level": {
+      "Fasting": 105.74,
+      "HbA1c": 4.42
+    },
+    "ALT": 20.96,
+    "Creatinine": 0.9,
+    "TSH": 0.54,
+    "CRP": 2.77
+  },
+  {
+    "date": "2025-12-09",
+    "bp": "115/95",
+    "hr": 100,
+    "weight": 62.3,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-12-09",
+      "duration": 8,
+      "quality": "Good"
+    },
+    "Total Cholesterol": 214.18,
+    "LDL": 144.2,
+    "HDL": 53.82,
+    "Triglycerides": 165.07,
+    "ApoB": 92.37,
+    "Fasting Glucose": 105.74,
+    "HbA1c": 4.42,
+    "Sugar Level": {
+      "Fasting": 105.74,
+      "HbA1c": 4.42
+    },
+    "ALT": 20.96,
+    "Creatinine": 0.9,
+    "TSH": 0.54,
+    "CRP": 2.77
+  },
+  {
+    "date": "2025-12-14",
+    "bp": "115/90",
+    "hr": 100,
+    "weight": 62.2,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-12-14",
+      "duration": 5,
+      "quality": "Good"
+    },
+    "Total Cholesterol": 214.18,
+    "LDL": 144.2,
+    "HDL": 53.82,
+    "Triglycerides": 165.07,
+    "ApoB": 92.37,
+    "Fasting Glucose": 105.74,
+    "HbA1c": 4.42,
+    "Sugar Level": {
+      "Fasting": 105.74,
+      "HbA1c": 4.42
+    },
+    "ALT": 20.96,
+    "Creatinine": 0.9,
+    "TSH": 0.54,
+    "CRP": 2.77
+  },
+  {
+    "date": "2025-12-16",
+    "bp": "119/90",
+    "hr": 100,
+    "weight": 61.5,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-12-16",
+      "duration": 7,
+      "quality": "Good"
+    },
+    "Total Cholesterol": 214.18,
+    "LDL": 144.2,
+    "HDL": 53.82,
+    "Triglycerides": 165.07,
+    "ApoB": 92.37,
+    "Fasting Glucose": 105.74,
+    "HbA1c": 4.42,
+    "Sugar Level": {
+      "Fasting": 105.74,
+      "HbA1c": 4.42
+    },
+    "ALT": 20.96,
+    "Creatinine": 0.9,
+    "TSH": 0.54,
+    "CRP": 2.77
+  },
+  {
+    "date": "2025-12-16",
+    "bp": "119/90",
+    "hr": 100,
+    "weight": 61.5,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-12-16",
+      "duration": 7,
+      "quality": "Good"
+    },
+    "Total Cholesterol": 214.18,
+    "LDL": 144.2,
+    "HDL": 53.82,
+    "Triglycerides": 165.07,
+    "ApoB": 92.37,
+    "Fasting Glucose": 105.74,
+    "HbA1c": 4.42,
+    "Sugar Level": {
+      "Fasting": 105.74,
+      "HbA1c": 4.42
+    },
+    "ALT": 20.96,
+    "Creatinine": 0.9,
+    "TSH": 0.54,
+    "CRP": 2.77
+  },
+  {
+    "date": "2025-12-19",
+    "bp": "119/96",
+    "hr": 90,
+    "weight": 60.4,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-12-19",
+      "duration": 4,
+      "quality": "Poor"
+    },
+    "Total Cholesterol": 214.18,
+    "LDL": 144.2,
+    "HDL": 53.82,
+    "Triglycerides": 165.07,
+    "ApoB": 92.37,
+    "Fasting Glucose": 105.74,
+    "HbA1c": 4.42,
+    "Sugar Level": {
+      "Fasting": 105.74,
+      "HbA1c": 4.42
+    },
+    "ALT": 20.96,
+    "Creatinine": 0.9,
+    "TSH": 0.54,
+    "CRP": 2.77
+  },
+  {
+    "date": "2025-12-22",
+    "bp": "117/95",
+    "hr": 90,
+    "weight": 60.3,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-12-22",
+      "duration": 5,
+      "quality": "Good"
+    },
+    "Total Cholesterol": 215.4,
+    "LDL": 146.21,
+    "HDL": 54.78,
+    "Triglycerides": 162.9,
+    "ApoB": 93.5,
+    "Fasting Glucose": 106.47,
+    "HbA1c": 4.34,
+    "Sugar Level": {
+      "Fasting": 106.47,
+      "HbA1c": 4.34
+    },
+    "ALT": 19.98,
+    "Creatinine": 0.9,
+    "TSH": 0.63,
+    "CRP": 2.59
+  },
+  {
+    "date": "2025-12-22",
+    "bp": "117/95",
+    "hr": 90,
+    "weight": 60.3,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-12-22",
+      "duration": 5,
+      "quality": "Good"
+    },
+    "Total Cholesterol": 215.4,
+    "LDL": 146.21,
+    "HDL": 54.78,
+    "Triglycerides": 162.9,
+    "ApoB": 93.5,
+    "Fasting Glucose": 106.47,
+    "HbA1c": 4.34,
+    "Sugar Level": {
+      "Fasting": 106.47,
+      "HbA1c": 4.34
+    },
+    "ALT": 19.98,
+    "Creatinine": 0.9,
+    "TSH": 0.63,
+    "CRP": 2.59
+  },
+  {
+    "date": "2025-12-24",
+    "bp": "119/94",
+    "hr": 90,
+    "weight": 61.4,
+    "hrv": null,
+    "sleep": {
+      "date": "2025-12-24",
+      "duration": 7,
+      "quality": "Good"
+    },
+    "Total Cholesterol": 215.4,
+    "LDL": 146.21,
+    "HDL": 54.78,
+    "Triglycerides": 162.9,
+    "ApoB": 93.5,
+    "Fasting Glucose": 106.47,
+    "HbA1c": 4.34,
+    "Sugar Level": {
+      "Fasting": 106.47,
+      "HbA1c": 4.34
+    },
+    "ALT": 19.98,
+    "Creatinine": 0.9,
+    "TSH": 0.63,
+    "CRP": 2.59
+  },
+  {
+    "date": "2026-01-05",
+    "bp": "110/86",
+    "hr": 100,
+    "weight": 61.8,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-01-05",
+      "duration": 7,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 214.61,
+    "LDL": 144.58,
+    "HDL": 54.41,
+    "Triglycerides": 159.98,
+    "ApoB": 93.11,
+    "Fasting Glucose": 106.43,
+    "HbA1c": 4.32,
+    "Sugar Level": {
+      "Fasting": 106.43,
+      "HbA1c": 4.32
+    },
+    "ALT": 19.4,
+    "Creatinine": 0.9,
+    "TSH": 0.57,
+    "CRP": 2.64
+  },
+  {
+    "date": "2026-01-05",
+    "bp": "110/86",
+    "hr": 100,
+    "weight": 61.8,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-01-05",
+      "duration": 7,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 214.61,
+    "LDL": 144.58,
+    "HDL": 54.41,
+    "Triglycerides": 159.98,
+    "ApoB": 93.11,
+    "Fasting Glucose": 106.43,
+    "HbA1c": 4.32,
+    "Sugar Level": {
+      "Fasting": 106.43,
+      "HbA1c": 4.32
+    },
+    "ALT": 19.4,
+    "Creatinine": 0.9,
+    "TSH": 0.57,
+    "CRP": 2.64
+  },
+  {
+    "date": "2026-01-08",
+    "bp": "110/87",
+    "hr": 100,
+    "weight": 62.0,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-01-08",
+      "duration": 6,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 214.61,
+    "LDL": 144.58,
+    "HDL": 54.41,
+    "Triglycerides": 159.98,
+    "ApoB": 93.11,
+    "Fasting Glucose": 106.43,
+    "HbA1c": 4.32,
+    "Sugar Level": {
+      "Fasting": 106.43,
+      "HbA1c": 4.32
+    },
+    "ALT": 19.4,
+    "Creatinine": 0.9,
+    "TSH": 0.57,
+    "CRP": 2.64
+  },
+  {
+    "date": "2026-01-09",
+    "bp": "112/88",
+    "hr": 99,
+    "weight": 61.9,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-01-09",
+      "duration": 6,
+      "quality": "Good"
+    },
+    "Total Cholesterol": 214.61,
+    "LDL": 144.58,
+    "HDL": 54.41,
+    "Triglycerides": 159.98,
+    "ApoB": 93.11,
+    "Fasting Glucose": 106.43,
+    "HbA1c": 4.32,
+    "Sugar Level": {
+      "Fasting": 106.43,
+      "HbA1c": 4.32
+    },
+    "ALT": 19.4,
+    "Creatinine": 0.9,
+    "TSH": 0.57,
+    "CRP": 2.64
+  },
+  {
+    "date": "2026-01-12",
+    "bp": "114/87",
+    "hr": 92,
+    "weight": 61.7,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-01-12",
+      "duration": 5,
+      "quality": "Poor"
+    },
+    "Total Cholesterol": 214.61,
+    "LDL": 144.58,
+    "HDL": 54.41,
+    "Triglycerides": 159.98,
+    "ApoB": 93.11,
+    "Fasting Glucose": 106.43,
+    "HbA1c": 4.32,
+    "Sugar Level": {
+      "Fasting": 106.43,
+      "HbA1c": 4.32
+    },
+    "ALT": 19.4,
+    "Creatinine": 0.9,
+    "TSH": 0.57,
+    "CRP": 2.64
+  },
+  {
+    "date": "2026-01-18",
+    "bp": "111/93",
+    "hr": 100,
+    "weight": 62.5,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-01-18",
+      "duration": 4,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 214.61,
+    "LDL": 144.58,
+    "HDL": 54.41,
+    "Triglycerides": 159.98,
+    "ApoB": 93.11,
+    "Fasting Glucose": 106.43,
+    "HbA1c": 4.32,
+    "Sugar Level": {
+      "Fasting": 106.43,
+      "HbA1c": 4.32
+    },
+    "ALT": 19.4,
+    "Creatinine": 0.9,
+    "TSH": 0.57,
+    "CRP": 2.64
+  },
+  {
+    "date": "2026-01-19",
+    "bp": "112/91",
+    "hr": 100,
+    "weight": 62.7,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-01-19",
+      "duration": 6,
+      "quality": "Poor"
+    },
+    "Total Cholesterol": 214.61,
+    "LDL": 144.58,
+    "HDL": 54.41,
+    "Triglycerides": 159.98,
+    "ApoB": 93.11,
+    "Fasting Glucose": 106.43,
+    "HbA1c": 4.32,
+    "Sugar Level": {
+      "Fasting": 106.43,
+      "HbA1c": 4.32
+    },
+    "ALT": 19.4,
+    "Creatinine": 0.9,
+    "TSH": 0.57,
+    "CRP": 2.64
+  },
+  {
+    "date": "2026-01-20",
+    "bp": "113/92",
+    "hr": 94,
+    "weight": 63.2,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-01-20",
+      "duration": 4,
+      "quality": "Poor"
+    },
+    "Total Cholesterol": 214.61,
+    "LDL": 144.58,
+    "HDL": 54.41,
+    "Triglycerides": 159.98,
+    "ApoB": 93.11,
+    "Fasting Glucose": 106.43,
+    "HbA1c": 4.32,
+    "Sugar Level": {
+      "Fasting": 106.43,
+      "HbA1c": 4.32
+    },
+    "ALT": 19.4,
+    "Creatinine": 0.9,
+    "TSH": 0.57,
+    "CRP": 2.64
+  },
+  {
+    "date": "2026-01-25",
+    "bp": "111/92",
+    "hr": 100,
+    "weight": 63.4,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-01-25",
+      "duration": 4,
+      "quality": "Poor"
+    },
+    "Total Cholesterol": 214.61,
+    "LDL": 144.58,
+    "HDL": 54.41,
+    "Triglycerides": 159.98,
+    "ApoB": 93.11,
+    "Fasting Glucose": 106.43,
+    "HbA1c": 4.32,
+    "Sugar Level": {
+      "Fasting": 106.43,
+      "HbA1c": 4.32
+    },
+    "ALT": 19.4,
+    "Creatinine": 0.9,
+    "TSH": 0.57,
+    "CRP": 2.64
+  },
+  {
+    "date": "2026-02-02",
+    "bp": "113/89",
+    "hr": 90,
+    "weight": 63.9,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-02-02",
+      "duration": 5,
+      "quality": "Poor"
+    },
+    "Total Cholesterol": 214.61,
+    "LDL": 144.58,
+    "HDL": 54.41,
+    "Triglycerides": 159.98,
+    "ApoB": 93.11,
+    "Fasting Glucose": 106.43,
+    "HbA1c": 4.32,
+    "Sugar Level": {
+      "Fasting": 106.43,
+      "HbA1c": 4.32
+    },
+    "ALT": 19.4,
+    "Creatinine": 0.9,
+    "TSH": 0.57,
+    "CRP": 2.64
+  },
+  {
+    "date": "2026-02-02",
+    "bp": "113/89",
+    "hr": 90,
+    "weight": 63.9,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-02-02",
+      "duration": 5,
+      "quality": "Poor"
+    },
+    "Total Cholesterol": 214.61,
+    "LDL": 144.58,
+    "HDL": 54.41,
+    "Triglycerides": 159.98,
+    "ApoB": 93.11,
+    "Fasting Glucose": 106.43,
+    "HbA1c": 4.32,
+    "Sugar Level": {
+      "Fasting": 106.43,
+      "HbA1c": 4.32
+    },
+    "ALT": 19.4,
+    "Creatinine": 0.9,
+    "TSH": 0.57,
+    "CRP": 2.64
+  },
+  {
+    "date": "2026-02-03",
+    "bp": "114/88",
+    "hr": 91,
+    "weight": 63.7,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-02-03",
+      "duration": 5,
+      "quality": "Poor"
+    },
+    "Total Cholesterol": 214.61,
+    "LDL": 144.58,
+    "HDL": 54.41,
+    "Triglycerides": 159.98,
+    "ApoB": 93.11,
+    "Fasting Glucose": 106.43,
+    "HbA1c": 4.32,
+    "Sugar Level": {
+      "Fasting": 106.43,
+      "HbA1c": 4.32
+    },
+    "ALT": 19.4,
+    "Creatinine": 0.9,
+    "TSH": 0.57,
+    "CRP": 2.64
+  },
+  {
+    "date": "2026-02-08",
+    "bp": "122/84",
+    "hr": 100,
+    "weight": 64.0,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-02-08",
+      "duration": 8,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 214.61,
+    "LDL": 144.58,
+    "HDL": 54.41,
+    "Triglycerides": 159.98,
+    "ApoB": 93.11,
+    "Fasting Glucose": 106.43,
+    "HbA1c": 4.32,
+    "Sugar Level": {
+      "Fasting": 106.43,
+      "HbA1c": 4.32
+    },
+    "ALT": 19.4,
+    "Creatinine": 0.9,
+    "TSH": 0.57,
+    "CRP": 2.64
+  },
+  {
+    "date": "2026-02-09",
+    "bp": "121/85",
+    "hr": 99,
+    "weight": 64.2,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-02-09",
+      "duration": 8,
+      "quality": "Poor"
+    },
+    "Total Cholesterol": 214.61,
+    "LDL": 144.58,
+    "HDL": 54.41,
+    "Triglycerides": 159.98,
+    "ApoB": 93.11,
+    "Fasting Glucose": 106.43,
+    "HbA1c": 4.32,
+    "Sugar Level": {
+      "Fasting": 106.43,
+      "HbA1c": 4.32
+    },
+    "ALT": 19.4,
+    "Creatinine": 0.9,
+    "TSH": 0.57,
+    "CRP": 2.64
+  },
+  {
+    "date": "2026-02-11",
+    "bp": "119/82",
+    "hr": 100,
+    "weight": 65.0,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-02-11",
+      "duration": 5,
+      "quality": "Poor"
+    },
+    "Total Cholesterol": 214.61,
+    "LDL": 144.58,
+    "HDL": 54.41,
+    "Triglycerides": 159.98,
+    "ApoB": 93.11,
+    "Fasting Glucose": 106.43,
+    "HbA1c": 4.32,
+    "Sugar Level": {
+      "Fasting": 106.43,
+      "HbA1c": 4.32
+    },
+    "ALT": 19.4,
+    "Creatinine": 0.9,
+    "TSH": 0.57,
+    "CRP": 2.64
+  },
+  {
+    "date": "2026-02-14",
+    "bp": "115/87",
+    "hr": 100,
+    "weight": 65.0,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-02-14",
+      "duration": 6,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 214.61,
+    "LDL": 144.58,
+    "HDL": 54.41,
+    "Triglycerides": 159.98,
+    "ApoB": 93.11,
+    "Fasting Glucose": 106.43,
+    "HbA1c": 4.32,
+    "Sugar Level": {
+      "Fasting": 106.43,
+      "HbA1c": 4.32
+    },
+    "ALT": 19.4,
+    "Creatinine": 0.9,
+    "TSH": 0.57,
+    "CRP": 2.64
+  },
+  {
+    "date": "2026-02-16",
+    "bp": "114/85",
+    "hr": 100,
+    "weight": 65.4,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-02-16",
+      "duration": 4,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 214.61,
+    "LDL": 142.58,
+    "HDL": 61.41,
+    "Triglycerides": 157.98,
+    "ApoB": 98.11,
+    "Fasting Glucose": 101.43,
+    "HbA1c": 4,
+    "Sugar Level": {
+      "Fasting": 101.43,
+      "HbA1c": 4
+    },
+    "ALT": 14.4,
+    "Creatinine": 0.9,
+    "TSH": 0.5,
+    "CRP": 2.64
+  },
+  {
+    "date": "2026-02-19",
+    "bp": "114/83",
+    "hr": 99,
+    "weight": 65.0,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-02-19",
+      "duration": 5,
+      "quality": "Good"
+    },
+    "Total Cholesterol": 213.75,
+    "LDL": 141.23,
+    "HDL": 61.15,
+    "Triglycerides": 160.46,
+    "ApoB": 98.25,
+    "Fasting Glucose": 101.3,
+    "HbA1c": 4.06,
+    "Sugar Level": {
+      "Fasting": 101.3,
+      "HbA1c": 4.06
+    },
+    "ALT": 14.9,
+    "Creatinine": 0.91,
+    "TSH": 0.52,
+    "CRP": 2.59
+  },
+  {
+    "date": "2026-02-23",
+    "bp": "112/80",
+    "hr": 100,
+    "weight": 64.9,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-02-23",
+      "duration": 7,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 213.75,
+    "LDL": 141.23,
+    "HDL": 61.15,
+    "Triglycerides": 160.46,
+    "ApoB": 98.25,
+    "Fasting Glucose": 101.3,
+    "HbA1c": 4.06,
+    "Sugar Level": {
+      "Fasting": 101.3,
+      "HbA1c": 4.06
+    },
+    "ALT": 14.9,
+    "Creatinine": 0.91,
+    "TSH": 0.52,
+    "CRP": 2.59
+  },
+  {
+    "date": "2026-03-02",
+    "bp": "109/84",
+    "hr": 95,
+    "weight": 64.7,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-03-02",
+      "duration": 5,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 213.75,
+    "LDL": 141.23,
+    "HDL": 61.15,
+    "Triglycerides": 160.46,
+    "ApoB": 98.25,
+    "Fasting Glucose": 101.3,
+    "HbA1c": 4.06,
+    "Sugar Level": {
+      "Fasting": 101.3,
+      "HbA1c": 4.06
+    },
+    "ALT": 14.9,
+    "Creatinine": 0.91,
+    "TSH": 0.52,
+    "CRP": 2.59
+  },
+  {
+    "date": "2026-03-16",
+    "bp": "104/88",
+    "hr": 100,
+    "weight": 64.5,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-03-16",
+      "duration": 6,
+      "quality": "Good"
+    },
+    "Total Cholesterol": 211.74,
+    "LDL": 143.12,
+    "HDL": 60.22,
+    "Triglycerides": 160.6,
+    "ApoB": 97.08,
+    "Fasting Glucose": 101.72,
+    "HbA1c": 4.01,
+    "Sugar Level": {
+      "Fasting": 101.72,
+      "HbA1c": 4.01
+    },
+    "ALT": 14.28,
+    "Creatinine": 0.88,
+    "TSH": 0.52,
+    "CRP": 2.69
+  },
+  {
+    "date": "2026-03-16",
+    "bp": "104/88",
+    "hr": 100,
+    "weight": 64.5,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-03-16",
+      "duration": 6,
+      "quality": "Good"
+    },
+    "Total Cholesterol": 211.74,
+    "LDL": 143.12,
+    "HDL": 60.22,
+    "Triglycerides": 160.6,
+    "ApoB": 97.08,
+    "Fasting Glucose": 101.72,
+    "HbA1c": 4.01,
+    "Sugar Level": {
+      "Fasting": 101.72,
+      "HbA1c": 4.01
+    },
+    "ALT": 14.28,
+    "Creatinine": 0.88,
+    "TSH": 0.52,
+    "CRP": 2.69
+  },
+  {
+    "date": "2026-03-19",
+    "bp": "105/90",
+    "hr": 100,
+    "weight": 65.3,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-03-19",
+      "duration": 8,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 214.07,
+    "LDL": 142.67,
+    "HDL": 60.98,
+    "Triglycerides": 162.98,
+    "ApoB": 97.91,
+    "Fasting Glucose": 102.24,
+    "HbA1c": 4,
+    "Sugar Level": {
+      "Fasting": 102.24,
+      "HbA1c": 4
+    },
+    "ALT": 13.48,
+    "Creatinine": 0.87,
+    "TSH": 0.5,
+    "CRP": 2.82
+  },
+  {
+    "date": "2026-03-30",
+    "bp": "109/90",
+    "hr": 94,
+    "weight": 66.2,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-03-30",
+      "duration": 4,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 216.92,
+    "LDL": 139.69,
+    "HDL": 60.15,
+    "Triglycerides": 165.8,
+    "ApoB": 96.98,
+    "Fasting Glucose": 102.94,
+    "HbA1c": 4.01,
+    "Sugar Level": {
+      "Fasting": 102.94,
+      "HbA1c": 4.01
+    },
+    "ALT": 14.22,
+    "Creatinine": 0.87,
+    "TSH": 0.56,
+    "CRP": 2.72
+  },
+  {
+    "date": "2026-04-02",
+    "bp": "114/90",
+    "hr": 100,
+    "weight": 65.9,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-04-02",
+      "duration": 6,
+      "quality": "Poor"
+    },
+    "Total Cholesterol": 216.92,
+    "LDL": 139.69,
+    "HDL": 60.15,
+    "Triglycerides": 165.8,
+    "ApoB": 96.98,
+    "Fasting Glucose": 102.94,
+    "HbA1c": 4.01,
+    "Sugar Level": {
+      "Fasting": 102.94,
+      "HbA1c": 4.01
+    },
+    "ALT": 14.22,
+    "Creatinine": 0.87,
+    "TSH": 0.56,
+    "CRP": 2.72
+  },
+  {
+    "date": "2026-04-06",
+    "bp": "114/90",
+    "hr": 100,
+    "weight": 66.1,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-04-06",
+      "duration": 4,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 216.92,
+    "LDL": 139.69,
+    "HDL": 60.15,
+    "Triglycerides": 165.8,
+    "ApoB": 96.98,
+    "Fasting Glucose": 102.94,
+    "HbA1c": 4.01,
+    "Sugar Level": {
+      "Fasting": 102.94,
+      "HbA1c": 4.01
+    },
+    "ALT": 14.22,
+    "Creatinine": 0.87,
+    "TSH": 0.56,
+    "CRP": 2.72
+  },
+  {
+    "date": "2026-04-07",
+    "bp": "125/89",
+    "hr": 87,
+    "weight": 66.8,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-04-07",
+      "duration": 5,
+      "quality": "Good"
+    },
+    "Total Cholesterol": 216.92,
+    "LDL": 139.69,
+    "HDL": 60.15,
+    "Triglycerides": 165.8,
+    "ApoB": 96.98,
+    "Fasting Glucose": 102.94,
+    "HbA1c": 4.01,
+    "Sugar Level": {
+      "Fasting": 102.94,
+      "HbA1c": 4.01
+    },
+    "ALT": 14.22,
+    "Creatinine": 0.87,
+    "TSH": 0.56,
+    "CRP": 2.72
+  },
+  {
+    "date": "2026-04-13",
+    "bp": "116/89",
+    "hr": 100,
+    "weight": 66.0,
+    "hrv": null,
+    "sleep": {
+      "date": "2026-04-13",
+      "duration": 6,
+      "quality": "Fair"
+    },
+    "Total Cholesterol": 216.92,
+    "LDL": 139.69,
+    "HDL": 60.15,
+    "Triglycerides": 165.8,
+    "ApoB": 96.98,
+    "Fasting Glucose": 102.94,
+    "HbA1c": 4.01,
+    "Sugar Level": {
+      "Fasting": 102.94,
+      "HbA1c": 4.01
+    },
+    "ALT": 14.22,
+    "Creatinine": 0.87,
+    "TSH": 0.56,
+    "CRP": 2.72
+  }
+]

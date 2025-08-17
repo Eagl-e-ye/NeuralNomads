@@ -1,0 +1,744 @@
+[
+  {
+    "decision_id": "dec_msg_3c",
+    "date": "2025-08-19",
+    "type": "plan_change",
+    "summary": "Yoga can improve flexibility and aid recovery, but supplement it with targeted mobility drills and controlled dynamic stretches for optimal results",
+    "actor": "rachel",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_3a",
+      "msg_3c"
+    ],
+    "status": "active",
+    "reason": "Yoga is beneficial but including targeted mobility work ensures balanced flexibility gains and safeguards against overuse injuries from repetitive poses."
+  },
+  {
+    "decision_id": "dec_msg_6c",
+    "date": "2025-09-01",
+    "type": "plan_change",
+    "summary": "For stamina, prioritize cardio (like running or cycling) but include strength training twice a week to support endurance and efficiency",
+    "actor": "rachel",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_6a",
+      "msg_6c"
+    ],
+    "status": "active",
+    "reason": "Cardio builds stamina directly, while strength training enhances endurance by improving muscle efficiency and reducing fatigue risk. Both are essential, but cardio should be your primary focus."
+  },
+  {
+    "decision_id": "dec_msg_7c",
+    "date": "2025-09-07",
+    "type": "plan_change",
+    "summary": "Morning exercise may be most effective for lowering cholesterol, as it can boost fat metabolism and improve lipid profiles",
+    "actor": "carla",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_7a",
+      "msg_7c"
+    ],
+    "status": "active",
+    "reason": "Morning workouts align with the body's natural circadian rhythm, enhancing fat metabolism when glycogen stores are low after overnight fasting."
+  },
+  {
+    "decision_id": "dec_msg_8c",
+    "date": "2025-09-08",
+    "type": "plan_change",
+    "summary": "To manage cholesterol while traveling in Singapore, focus on these key steps:  \n- Choose grilled, steamed, or stir-fried dishes (avoid fried/saucy foods)",
+    "actor": "carla",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_8a",
+      "msg_8c"
+    ],
+    "status": "active",
+    "reason": "The recommendations prioritize heart-healthy cooking methods that are widely available in Singaporean cuisine while being realistic for travel."
+  },
+  {
+    "decision_id": "dec_msg_10c",
+    "date": "2025-09-09",
+    "type": "plan_change",
+    "summary": "Your BP of 108/84 is within normal range",
+    "actor": "warren",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_10a",
+      "msg_10c"
+    ],
+    "status": "active",
+    "reason": "Blood pressure remains well-controlled on current medication regimen, supporting continued management."
+  },
+  {
+    "decision_id": "dec_msg_11c",
+    "date": "2025-09-15",
+    "type": "plan_change",
+    "summary": "Plan active recovery days with light activities like walking or stretching, and schedule regular rest days based on your body's feedback and workout intensity",
+    "actor": "neel",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_11a",
+      "msg_11c"
+    ],
+    "status": "active",
+    "reason": "Neel decided this to adjust patient\u2019s plan based on the history."
+  },
+  {
+    "decision_id": "dec_msg_12c",
+    "date": "2025-09-16",
+    "type": "plan_change",
+    "summary": "Assess your posture during activity and perform gentle back stretches like cat-cow or child's pose post-session",
+    "actor": "rachel",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_12a",
+      "msg_12c"
+    ],
+    "status": "active",
+    "reason": "Light back pain suggests possible postural strain, so adjusting form and adding stretches will help alleviate tension and prevent further discomfort."
+  },
+  {
+    "decision_id": "dec_msg_14c",
+    "date": "2025-09-26",
+    "type": "plan_change",
+    "summary": "To optimize intermittent fasting, ensure you're drinking plenty of water and focus on nutrient-dense meals during your eating window\u2014prioritize proteins, healthy fats, and fiber",
+    "actor": "carla",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_14a",
+      "msg_14c"
+    ],
+    "status": "active",
+    "reason": "To support your fasting efforts and maintain energy levels, hydration and balanced meals are key for sustainable results."
+  },
+  {
+    "decision_id": "dec_msg_15c",
+    "date": "2025-09-29",
+    "type": "plan_change",
+    "summary": "To manage cholesterol while traveling: opt for lean proteins (grilled chicken, fish), avoid fried foods, choose whole grains, load up on vegetables, and pick heart-healthy snacks like nuts or fruit",
+    "actor": "carla",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_15a",
+      "msg_15c"
+    ],
+    "status": "active",
+    "reason": "Carla decided this to adjust patient\u2019s plan based on the history."
+  },
+  {
+    "decision_id": "dec_msg_18b",
+    "date": "2025-10-03",
+    "type": "plan_change",
+    "summary": "I\u2019ll connect you with Dr",
+    "actor": "ruby",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_18a",
+      "msg_18b"
+    ],
+    "status": "active",
+    "reason": "Ruby decided this to adjust patient\u2019s plan based on the history."
+  },
+  {
+    "decision_id": "dec_msg_23c",
+    "date": "2025-10-21",
+    "type": "plan_change",
+    "summary": "Your diastolic blood pressure (97 mmHg) is elevated (normal <80 mmHg)",
+    "actor": "warren",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_23a",
+      "msg_23c"
+    ],
+    "status": "active",
+    "reason": "The elevated diastolic pressure suggests vascular stiffness\u2014increase monitoring and consider a review of antihypertensive therapy."
+  },
+  {
+    "decision_id": "dec_msg_25c",
+    "date": "2025-10-27",
+    "type": "plan_change",
+    "summary": "Your diastolic blood pressure (101 mmHg) is critically elevated (normal: <80 mmHg) - this requires immediate medical evaluation for hypertensive urgency",
+    "actor": "warren",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_25a",
+      "msg_25c"
+    ],
+    "status": "active",
+    "reason": "The extremely elevated diastolic pressure indicates potential hypertensive crisis requiring urgent intervention to prevent end-organ damage."
+  },
+  {
+    "decision_id": "dec_msg_27c",
+    "date": "2025-10-29",
+    "type": "plan_change",
+    "summary": "Check your posture and reduce the load",
+    "actor": "rachel",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_27a",
+      "msg_27c"
+    ],
+    "status": "active",
+    "reason": "Ensuring proper posture and lighter loads will help prevent strain and allow your back to recover."
+  },
+  {
+    "decision_id": "dec_msg_29c",
+    "date": "2025-11-10",
+    "type": "plan_change",
+    "summary": "Pack portable snacks like nuts or protein bars for on-the-go meals, prioritize local protein sources (grilled meats, beans), stay hydrated, and opt for bodyweight workouts if gym access is limited",
+    "actor": "carla",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_29a",
+      "msg_29c"
+    ],
+    "status": "active",
+    "reason": "Your upcoming travel requires practical, flexible nutrition strategies since local food options and workout facilities may vary."
+  },
+  {
+    "decision_id": "dec_msg_31c",
+    "date": "2025-11-16",
+    "type": "plan_change",
+    "summary": "An HbA1c of 4",
+    "actor": "neel",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_31a",
+      "msg_31c"
+    ],
+    "status": "active",
+    "reason": "An HbA1c of 4.33% is very low and may indicate hypoglycemia risk; we should discuss symptom checks and potential management adjustments.  \n\nThis warrants immediate review to ensure your safety and rule out underlying causes."
+  },
+  {
+    "decision_id": "dec_msg_32c",
+    "date": "2025-11-24",
+    "type": "plan_change",
+    "summary": "Yoga is beneficial for flexibility and active recovery, but pairing it with targeted mobility drills and progressive stretching will optimize results\u2014especially if you have existing tightness or imbalances",
+    "actor": "rachel",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_32a",
+      "msg_32c"
+    ],
+    "status": "active",
+    "reason": "Yoga aids flexibility and recovery but targeted mobility work is needed to address specific tightness or imbalances more effectively. This combination ensures balanced progress and prevents overcompensation."
+  },
+  {
+    "decision_id": "dec_msg_33c",
+    "date": "2025-11-27",
+    "type": "plan_change",
+    "summary": "Let\u2019s adjust your support to better address your shoulder pain\u2014would you like guidance on stretches or pain management techniques?",
+    "actor": "neel",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_33a",
+      "msg_33c"
+    ],
+    "status": "active",
+    "reason": "The decision ensures we proactively address your discomfort with targeted solutions tailored to your needs."
+  },
+  {
+    "decision_id": "dec_msg_34c",
+    "date": "2025-12-01",
+    "type": "plan_change",
+    "summary": "For Jakarta travel: Pack protein bars, nuts, and hydration tablets; choose grilled protein and veggies at meals; walk for local sightseeing; use hotel gyms or bodyweight exercises if a gym isn't available",
+    "actor": "carla",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_34a",
+      "msg_34c"
+    ],
+    "status": "active",
+    "reason": "To maintain your diet and fitness routine while traveling, I\u2019m emphasizing portable, nutrient-dense options and making exercise adaptable to your schedule and surroundings."
+  },
+  {
+    "decision_id": "dec_msg_35c",
+    "date": "2025-12-08",
+    "type": "plan_change",
+    "summary": "Fatigue after cycling can be normal, but monitor for signs like persistent weakness, dizziness, or disproportionate exhaustion\u2014these may indicate overtraining, dehydration, or nutrient deficiencies",
+    "actor": "rachel",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_35a",
+      "msg_35c"
+    ],
+    "status": "active",
+    "reason": "Fatigue is expected from exertion, but we assess further if symptoms worsen or symptoms like weakness or dizziness appear to rule out overtraining or other underlying issues."
+  },
+  {
+    "decision_id": "dec_msg_36c",
+    "date": "2025-12-09",
+    "type": "plan_change",
+    "summary": "Focus on gentle spinal mobility exercises like cat-cow stretches and avoid heavy lifting",
+    "actor": "rachel",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_36a",
+      "msg_36c"
+    ],
+    "status": "active",
+    "reason": "Providing gentle spinal mobility exercises will alleviate strain while allowing movement, and avoiding heavy lifting prevents further aggravation to the sensitive area."
+  },
+  {
+    "decision_id": "dec_msg_37c",
+    "date": "2025-12-14",
+    "type": "plan_change",
+    "summary": "Current BP is well-controlled (115/90)",
+    "actor": "warren",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_37a",
+      "msg_37c"
+    ],
+    "status": "active",
+    "reason": "The slightly elevated diastolic (90 mmHg) warrants monitoring, but parameters remain acceptable given the medication adherence."
+  },
+  {
+    "decision_id": "dec_msg_38c",
+    "date": "2025-12-16",
+    "type": "plan_change",
+    "summary": "Your diastolic BP is slightly elevated (90 mmHg); monitor for consistency and consider lifestyle adjustments if it persists",
+    "actor": "warren",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_38a",
+      "msg_38c"
+    ],
+    "status": "active",
+    "reason": "The decision is based on your isolated diastolic elevation, which warrants monitoring given borderline hypertension thresholds and potential need for dietary/sodium modifications if sustained."
+  },
+  {
+    "decision_id": "dec_msg_39c",
+    "date": "2025-12-16",
+    "type": "plan_change",
+    "summary": "Cold showers can aid recovery by reducing muscle soreness and inflammation, but they may also limit long-term muscle adaptation, so use them strategically post-workout, not consistently",
+    "actor": "rachel",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_39a",
+      "msg_39c"
+    ],
+    "status": "active",
+    "reason": "Rachel decided this to adjust patient\u2019s plan based on the history."
+  },
+  {
+    "decision_id": "dec_msg_40c",
+    "date": "2025-12-19",
+    "type": "plan_change",
+    "summary": "Yes, nuts and seeds are highly beneficial due to their healthy fats, fiber, protein, and essential vitamins",
+    "actor": "carla",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_40a",
+      "msg_40c"
+    ],
+    "status": "active",
+    "reason": "Carla decided this to adjust patient\u2019s plan based on the history."
+  },
+  {
+    "decision_id": "dec_msg_41c",
+    "date": "2025-12-22",
+    "type": "plan_change",
+    "summary": "No, unless you have specific lab values (e",
+    "actor": "warren",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_41a",
+      "msg_41c"
+    ],
+    "status": "active",
+    "reason": "No change is needed without evidence of altered lab values or symptoms affecting your health status."
+  },
+  {
+    "decision_id": "dec_msg_41e",
+    "date": "2025-12-22",
+    "type": "plan_change",
+    "summary": "Elevated LDL (146 mg/dL) and ApoB (93",
+    "actor": "warren",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_41a",
+      "msg_41e"
+    ],
+    "status": "active",
+    "reason": "Warren decided this to adjust patient\u2019s plan based on the history."
+  },
+  {
+    "decision_id": "dec_msg_41g",
+    "date": "2025-12-22",
+    "type": "plan_change",
+    "summary": "Continue current statin therapy, implement BP monitoring protocol, schedule fasting glucose/HbA1c, and order hs-CRP to evaluate inflammatory status",
+    "actor": "warren",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_41a",
+      "msg_41g"
+    ],
+    "status": "active",
+    "reason": "Proactive diagnostics are needed to ensure therapeutic stability and inflammatory risk assessment during changes in routine, given your cardiovascular risk factors."
+  },
+  {
+    "decision_id": "dec_msg_42c",
+    "date": "2025-12-23",
+    "type": "plan_change",
+    "summary": "Yoga can help but lacks progressive overload; pair it with dynamic stretching and active recovery (foam rolling, mobility drills) for optimal results",
+    "actor": "rachel",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_42a",
+      "msg_42c"
+    ],
+    "status": "active",
+    "reason": "Rachel decided this to adjust patient\u2019s plan based on the history."
+  },
+  {
+    "decision_id": "dec_msg_43c",
+    "date": "2025-12-24",
+    "type": "plan_change",
+    "summary": "Your pulse pressure (25 mmHg) is narrow, suggesting potential arterial stiffness or volume overload",
+    "actor": "warren",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_43a",
+      "msg_43c"
+    ],
+    "status": "active",
+    "reason": "The elevated diastolic pressure despite normal systolic BP warrants evaluation for early vascular changes or sodium-sensitive hypertension."
+  },
+  {
+    "decision_id": "dec_msg_44c",
+    "date": "2026-01-05",
+    "type": "plan_change",
+    "summary": "Progress varies by individual\u2014focus on consistent form, gradual load increases, and recovery",
+    "actor": "rachel",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_44a",
+      "msg_44c"
+    ],
+    "status": "active",
+    "reason": "Strengthening takes time, and your progress is normal\u2014prioritizing proper form and gradual progression will yield the best long-term results."
+  },
+  {
+    "decision_id": "dec_msg_45b",
+    "date": "2026-01-06",
+    "type": "plan_change",
+    "summary": "I'll have Advik, our Performance Scientist, assess your plan and suggest adjustments to make it more sustainable for you",
+    "actor": "ruby",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_45a",
+      "msg_45b"
+    ],
+    "status": "active",
+    "reason": "The patient expresses concerns about sustainability of their current plan, which falls under performance optimization \u2013 Advik is best suited to reassess and tailor it."
+  },
+  {
+    "decision_id": "dec_msg_47c",
+    "date": "2026-01-09",
+    "type": "plan_change",
+    "summary": "Aim for 8-10 cups (64-80 oz) of water daily, adjusting for activity level and climate",
+    "actor": "carla",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_47a",
+      "msg_47c"
+    ],
+    "status": "active",
+    "reason": "Recommended hydration adjusts for general needs while considering your body's signals like thirst and urine color for personalized intake."
+  },
+  {
+    "decision_id": "dec_msg_48c",
+    "date": "2026-01-12",
+    "type": "plan_change",
+    "summary": "Pack nutrient-dense snacks like nuts, protein bars, and dried fruit for on-the-go",
+    "actor": "carla",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_48a",
+      "msg_48c"
+    ],
+    "status": "active",
+    "reason": "Irregular meals during travel can disrupt nutrition, so portable, high-energy snacks help maintain balanced intake between meals."
+  },
+  {
+    "decision_id": "dec_msg_49c",
+    "date": "2026-01-18",
+    "type": "plan_change",
+    "summary": "Yes, both yoga and meditation can effectively reduce stress and lower blood pressure by promoting relaxation and improving circulation",
+    "actor": "rachel",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_49a",
+      "msg_49c"
+    ],
+    "status": "active",
+    "reason": "Rachel decided this to adjust patient\u2019s plan based on the history."
+  },
+  {
+    "decision_id": "dec_msg_50c",
+    "date": "2026-01-19",
+    "type": "plan_change",
+    "summary": "Focus on gradually increasing cardio duration (10% per week) and incorporate interval training (30s high intensity/1min recovery)",
+    "actor": "rachel",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_50a",
+      "msg_50c"
+    ],
+    "status": "active",
+    "reason": "The gradual increase prevents overexertion while interval training adapts your body efficiently to cardio demands."
+  },
+  {
+    "decision_id": "dec_msg_51c",
+    "date": "2026-01-20",
+    "type": "plan_change",
+    "summary": "Excessive coffee can lead to increased anxiety, sleep disruptions, or digestive issues\u2014moderation is key (usually 3\u20134 cups/day max)",
+    "actor": "carla",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_51a",
+      "msg_51c"
+    ],
+    "status": "active",
+    "reason": "Coffee's caffeine can affect individuals differently, so monitoring your body's response helps adjust intake safely."
+  },
+  {
+    "decision_id": "dec_msg_52c",
+    "date": "2026-01-25",
+    "type": "plan_change",
+    "summary": "Focus on hydrating, eating fiber-rich foods (veggies, fruits, whole grains), and lean proteins to balance blood sugar",
+    "actor": "carla",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_52a",
+      "msg_52c"
+    ],
+    "status": "active",
+    "reason": "This recommendation helps counteract processed foods by stabilizing blood sugar and supporting digestion with nutrient-dense choices."
+  },
+  {
+    "decision_id": "dec_msg_53c",
+    "date": "2026-02-02",
+    "type": "plan_change",
+    "summary": "1",
+    "actor": "carla",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_53a",
+      "msg_53c"
+    ],
+    "status": "active",
+    "reason": "Carla decided this to adjust patient\u2019s plan based on the history."
+  },
+  {
+    "decision_id": "dec_msg_54c",
+    "date": "2026-02-02",
+    "type": "plan_change",
+    "summary": "Assess your cardio intensity; consider reducing duration or pace, and ensure proper hydration and fueling pre-workout",
+    "actor": "rachel",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_54a",
+      "msg_54c"
+    ],
+    "status": "active",
+    "reason": "Given your improved strength training, your body may need gradual adjustment to maintain cardio endurance efficiently\u2014focus on pacing and recovery."
+  },
+  {
+    "decision_id": "dec_msg_56c",
+    "date": "2026-02-08",
+    "type": "plan_change",
+    "summary": "No concerning deviations in BP or weight\u2014continue current regimen",
+    "actor": "warren",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_56a",
+      "msg_56c"
+    ],
+    "status": "active",
+    "reason": "Warren decided this to adjust patient\u2019s plan based on the history."
+  },
+  {
+    "decision_id": "dec_msg_58c",
+    "date": "2026-02-11",
+    "type": "plan_change",
+    "summary": "To recover from fast food, drink plenty of water, focus on whole foods (fruits, veggies, lean protein, whole grains), and avoid processed snacks for the next few meals",
+    "actor": "carla",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_58a",
+      "msg_58c"
+    ],
+    "status": "active",
+    "reason": "Carla decided this to adjust patient\u2019s plan based on the history."
+  },
+  {
+    "decision_id": "dec_msg_60c",
+    "date": "2026-02-16",
+    "type": "plan_change",
+    "summary": "Review your last workout logs to identify intensity/frequency issues, ensure proper post-workout nutrition/hydration, incorporate active recovery days, and focus on sleep quality",
+    "actor": "rachel",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_60a",
+      "msg_60c"
+    ],
+    "status": "active",
+    "reason": "Your recovery struggles likely stem from inadequate rest-nutrition balance or overtraining, so monitoring these factors closely will optimize healing and performance."
+  },
+  {
+    "decision_id": "dec_msg_61c",
+    "date": "2026-02-19",
+    "type": "plan_change",
+    "summary": "To recover from fast food, drink plenty of water, eat fiber-rich foods (vegetables, fruits, whole grains), and include lean proteins (chicken, fish, legumes) in your next meals",
+    "actor": "carla",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_61a",
+      "msg_61c"
+    ],
+    "status": "active",
+    "reason": "This recommendation helps rebalance your digestion and nutrient intake after processed, high-fat fast food meals."
+  },
+  {
+    "decision_id": "dec_msg_62c",
+    "date": "2026-02-23",
+    "type": "plan_change",
+    "summary": "Stick to fiber-rich foods like whole grains, vegetables, and legumes, avoid fried street food (opt for grilled/tandoori), carry nuts/seeds for snacks, drink plenty of water, and limit sugary drinks",
+    "actor": "carla",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_62a",
+      "msg_62c"
+    ],
+    "status": "active",
+    "reason": "To help maintain cholesterol control while traveling, I focused on heart-healthy, fiber-rich local food options and practical hydration strategies that are achievable in New Delhi."
+  },
+  {
+    "decision_id": "dec_msg_63c",
+    "date": "2026-03-02",
+    "type": "plan_change",
+    "summary": "Assess your recovery markers: sleep quality, muscle soreness, and energy levels",
+    "actor": "rachel",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_63a",
+      "msg_63c"
+    ],
+    "status": "active",
+    "reason": "Your concern about the intensity is valid, so checking recovery markers will help ensure you\u2019re not pushing too hard without adequate rest."
+  },
+  {
+    "decision_id": "dec_msg_64c",
+    "date": "2026-03-16",
+    "type": "plan_change",
+    "summary": "Focus on bodyweight workouts (push-ups, squats, lunges) and walking to explore the city",
+    "actor": "carla",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_64a",
+      "msg_64c"
+    ],
+    "status": "active",
+    "reason": "Carla decided this to adjust patient\u2019s plan based on the history."
+  },
+  {
+    "decision_id": "dec_msg_65c",
+    "date": "2026-03-16",
+    "type": "plan_change",
+    "summary": "Focus on shorter, moderate-intensity cardio sessions (e",
+    "actor": "rachel",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_65a",
+      "msg_65c"
+    ],
+    "status": "active",
+    "reason": "The reduced cardio endurance suggests pacing adjustments are needed to prevent overexertion while maintaining progress."
+  },
+  {
+    "decision_id": "dec_msg_66c",
+    "date": "2026-03-19",
+    "type": "plan_change",
+    "summary": "Yes, adding nuts and seeds is beneficial as they provide healthy fats, protein, fiber, and essential nutrients",
+    "actor": "carla",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_66a",
+      "msg_66c"
+    ],
+    "status": "active",
+    "reason": "Nuts and seeds are nutrient-dense foods that support heart health, digestion, and overall wellness, making them a great dietary addition."
+  },
+  {
+    "decision_id": "dec_msg_67c",
+    "date": "2026-03-30",
+    "type": "plan_change",
+    "summary": "Focus on cardio for stamina, but include some strength training to support endurance and prevent injury",
+    "actor": "rachel",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_67a",
+      "msg_67c"
+    ],
+    "status": "active",
+    "reason": "To boost stamina effectively, cardio should be prioritized while strength training ensures joint stability and reduces injury risks during sustained activity."
+  },
+  {
+    "decision_id": "dec_msg_68c",
+    "date": "2026-04-02",
+    "type": "plan_change",
+    "summary": "It depends on your condition and current diet",
+    "actor": "carla",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_68a",
+      "msg_68c"
+    ],
+    "status": "active",
+    "reason": "Focusing on nutrient-dense fruits can be beneficial, but I\u2019d need to know your specific condition and overall diet to assess the impact properly."
+  },
+  {
+    "decision_id": "dec_msg_68e",
+    "date": "2026-04-02",
+    "type": "plan_change",
+    "summary": "To address your concerns:  \n1",
+    "actor": "carla",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_68a",
+      "msg_68e"
+    ],
+    "status": "active",
+    "reason": "Increasing fruits can improve micronutrient intake, but I\u2019d need details on your condition and current diet for personalized advice."
+  },
+  {
+    "decision_id": "dec_msg_69c",
+    "date": "2026-04-06",
+    "type": "plan_change",
+    "summary": "To manage cholesterol while traveling:  \n- Prioritize fiber-rich foods (oats, legumes, fruits)",
+    "actor": "carla",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_69a",
+      "msg_69c"
+    ],
+    "status": "active",
+    "reason": "Travel disrupts routines, so focusing on soluble fiber helps maintain cholesterol control even when meal options are limited. These foods also improve satiety, preventing unhealthy snacking."
+  },
+  {
+    "decision_id": "dec_msg_70c",
+    "date": "2026-04-07",
+    "type": "plan_change",
+    "summary": "*Critical Alert: Systolic/Diastolic inversion (105/106 mmHg) is physiologically impossible",
+    "actor": "warren",
+    "rationale": "Auto-extracted from Elyx message.",
+    "evidence_message_ids": [
+      "msg_70a",
+      "msg_70c"
+    ],
+    "status": "active",
+    "reason": "The BP reading inversion suggests technical error or severe underlying pathology requiring immediate re-measurement and evaluation."
+  }
+]

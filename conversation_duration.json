@@ -1,0 +1,499 @@
+[
+  {
+    "date": "2025-08-18",
+    "total_duration": 434.0,
+    "doctor_durations": {
+      "rachel": 434.0
+    }
+  },
+  {
+    "date": "2025-08-18",
+    "total_duration": 167.0,
+    "doctor_durations": {
+      "warren": 167.0
+    }
+  },
+  {
+    "date": "2025-08-19",
+    "total_duration": 181.0,
+    "doctor_durations": {
+      "rachel": 181.0
+    }
+  },
+  {
+    "date": "2025-08-29",
+    "total_duration": 292.0,
+    "doctor_durations": {
+      "carla": 292.0
+    }
+  },
+  {
+    "date": "2025-08-31",
+    "total_duration": 31.0,
+    "doctor_durations": {
+      "ruby": 31.0
+    }
+  },
+  {
+    "date": "2025-09-01",
+    "total_duration": 258.0,
+    "doctor_durations": {
+      "rachel": 258.0
+    }
+  },
+  {
+    "date": "2025-09-07",
+    "total_duration": 283.0,
+    "doctor_durations": {
+      "carla": 283.0
+    }
+  },
+  {
+    "date": "2025-09-08",
+    "total_duration": 437.0,
+    "doctor_durations": {
+      "carla": 437.0
+    }
+  },
+  {
+    "date": "2025-09-08",
+    "total_duration": 188.0,
+    "doctor_durations": {
+      "neel": 188.0
+    }
+  },
+  {
+    "date": "2025-09-09",
+    "total_duration": 243.0,
+    "doctor_durations": {
+      "warren": 243.0
+    }
+  },
+  {
+    "date": "2025-09-15",
+    "total_duration": 319.0,
+    "doctor_durations": {
+      "neel": 319.0
+    }
+  },
+  {
+    "date": "2025-09-16",
+    "total_duration": 264.0,
+    "doctor_durations": {
+      "rachel": 264.0
+    }
+  },
+  {
+    "date": "2025-09-22",
+    "total_duration": 199.0,
+    "doctor_durations": {
+      "warren": 199.0
+    }
+  },
+  {
+    "date": "2025-09-26",
+    "total_duration": 256.0,
+    "doctor_durations": {
+      "carla": 256.0
+    }
+  },
+  {
+    "date": "2025-09-29",
+    "total_duration": 320.0,
+    "doctor_durations": {
+      "carla": 320.0
+    }
+  },
+  {
+    "date": "2025-09-29",
+    "total_duration": 202.0,
+    "doctor_durations": {
+      "rachel": 202.0
+    }
+  },
+  {
+    "date": "2025-10-01",
+    "total_duration": 321.0,
+    "doctor_durations": {
+      "carla": 321.0
+    }
+  },
+  {
+    "date": "2025-10-03",
+    "total_duration": 407.0,
+    "doctor_durations": {
+      "ruby": 407.0
+    }
+  },
+  {
+    "date": "2025-10-07",
+    "total_duration": 276.0,
+    "doctor_durations": {
+      "ruby": 276.0
+    }
+  },
+  {
+    "date": "2025-10-13",
+    "total_duration": 22.0,
+    "doctor_durations": {
+      "rachel": 22.0
+    }
+  },
+  {
+    "date": "2025-10-15",
+    "total_duration": 239.0,
+    "doctor_durations": {
+      "rachel": 239.0
+    }
+  },
+  {
+    "date": "2025-10-20",
+    "total_duration": 265.0,
+    "doctor_durations": {
+      "advik": 265.0
+    }
+  },
+  {
+    "date": "2025-10-21",
+    "total_duration": 246.0,
+    "doctor_durations": {
+      "warren": 246.0
+    }
+  },
+  {
+    "date": "2025-10-27",
+    "total_duration": 430.0,
+    "doctor_durations": {
+      "rachel": 430.0
+    }
+  },
+  {
+    "date": "2025-10-27",
+    "total_duration": 159.0,
+    "doctor_durations": {
+      "warren": 159.0
+    }
+  },
+  {
+    "date": "2025-10-28",
+    "total_duration": 186.0,
+    "doctor_durations": {
+      "carla": 186.0
+    }
+  },
+  {
+    "date": "2025-10-29",
+    "total_duration": 176.0,
+    "doctor_durations": {
+      "rachel": 176.0
+    }
+  },
+  {
+    "date": "2025-11-05",
+    "total_duration": 117.0,
+    "doctor_durations": {
+      "carla": 117.0
+    }
+  },
+  {
+    "date": "2025-11-10",
+    "total_duration": 367.0,
+    "doctor_durations": {
+      "carla": 367.0
+    }
+  },
+  {
+    "date": "2025-11-11",
+    "total_duration": 189.0,
+    "doctor_durations": {
+      "rachel": 189.0
+    }
+  },
+  {
+    "date": "2025-11-16",
+    "total_duration": 249.0,
+    "doctor_durations": {
+      "neel": 249.0
+    }
+  },
+  {
+    "date": "2025-11-24",
+    "total_duration": 196.0,
+    "doctor_durations": {
+      "rachel": 196.0
+    }
+  },
+  {
+    "date": "2025-11-27",
+    "total_duration": 347.0,
+    "doctor_durations": {
+      "neel": 347.0
+    }
+  },
+  {
+    "date": "2025-12-01",
+    "total_duration": 437.0,
+    "doctor_durations": {
+      "carla": 437.0
+    }
+  },
+  {
+    "date": "2025-12-08",
+    "total_duration": 311.0,
+    "doctor_durations": {
+      "rachel": 311.0
+    }
+  },
+  {
+    "date": "2025-12-09",
+    "total_duration": 26.0,
+    "doctor_durations": {
+      "rachel": 26.0
+    }
+  },
+  {
+    "date": "2025-12-14",
+    "total_duration": 360.0,
+    "doctor_durations": {
+      "warren": 360.0
+    }
+  },
+  {
+    "date": "2025-12-16",
+    "total_duration": 196.0,
+    "doctor_durations": {
+      "warren": 196.0
+    }
+  },
+  {
+    "date": "2025-12-16",
+    "total_duration": 18.0,
+    "doctor_durations": {
+      "rachel": 18.0
+    }
+  },
+  {
+    "date": "2025-12-19",
+    "total_duration": 313.0,
+    "doctor_durations": {
+      "carla": 313.0
+    }
+  },
+  {
+    "date": "2025-12-22",
+    "total_duration": 611.0,
+    "doctor_durations": {
+      "warren": 611.0
+    }
+  },
+  {
+    "date": "2025-12-23",
+    "total_duration": 378.0,
+    "doctor_durations": {
+      "rachel": 378.0
+    }
+  },
+  {
+    "date": "2025-12-24",
+    "total_duration": 282.0,
+    "doctor_durations": {
+      "warren": 282.0
+    }
+  },
+  {
+    "date": "2026-01-05",
+    "total_duration": 84.0,
+    "doctor_durations": {
+      "rachel": 84.0
+    }
+  },
+  {
+    "date": "2026-01-06",
+    "total_duration": 280.0,
+    "doctor_durations": {
+      "ruby": 280.0
+    }
+  },
+  {
+    "date": "2026-01-08",
+    "total_duration": 206.0,
+    "doctor_durations": {
+      "advik": 206.0
+    }
+  },
+  {
+    "date": "2026-01-09",
+    "total_duration": 145.0,
+    "doctor_durations": {
+      "carla": 145.0
+    }
+  },
+  {
+    "date": "2026-01-12",
+    "total_duration": 258.0,
+    "doctor_durations": {
+      "carla": 258.0
+    }
+  },
+  {
+    "date": "2026-01-18",
+    "total_duration": 275.0,
+    "doctor_durations": {
+      "rachel": 275.0
+    }
+  },
+  {
+    "date": "2026-01-19",
+    "total_duration": 332.0,
+    "doctor_durations": {
+      "rachel": 332.0
+    }
+  },
+  {
+    "date": "2026-01-20",
+    "total_duration": 251.0,
+    "doctor_durations": {
+      "carla": 251.0
+    }
+  },
+  {
+    "date": "2026-01-25",
+    "total_duration": 201.0,
+    "doctor_durations": {
+      "carla": 201.0
+    }
+  },
+  {
+    "date": "2026-02-02",
+    "total_duration": 242.0,
+    "doctor_durations": {
+      "carla": 242.0
+    }
+  },
+  {
+    "date": "2026-02-02",
+    "total_duration": 28.0,
+    "doctor_durations": {
+      "rachel": 28.0
+    }
+  },
+  {
+    "date": "2026-02-03",
+    "total_duration": 390.0,
+    "doctor_durations": {
+      "warren": 390.0
+    }
+  },
+  {
+    "date": "2026-02-08",
+    "total_duration": 314.0,
+    "doctor_durations": {
+      "warren": 314.0
+    }
+  },
+  {
+    "date": "2026-02-09",
+    "total_duration": 193.0,
+    "doctor_durations": {
+      "carla": 193.0
+    }
+  },
+  {
+    "date": "2026-02-11",
+    "total_duration": 383.0,
+    "doctor_durations": {
+      "carla": 383.0
+    }
+  },
+  {
+    "date": "2026-02-14",
+    "total_duration": 331.0,
+    "doctor_durations": {
+      "neel": 331.0
+    }
+  },
+  {
+    "date": "2026-02-16",
+    "total_duration": 261.0,
+    "doctor_durations": {
+      "rachel": 261.0
+    }
+  },
+  {
+    "date": "2026-02-19",
+    "total_duration": 445.0,
+    "doctor_durations": {
+      "carla": 445.0
+    }
+  },
+  {
+    "date": "2026-02-23",
+    "total_duration": 297.0,
+    "doctor_durations": {
+      "carla": 297.0
+    }
+  },
+  {
+    "date": "2026-03-02",
+    "total_duration": 260.0,
+    "doctor_durations": {
+      "rachel": 260.0
+    }
+  },
+  {
+    "date": "2026-03-16",
+    "total_duration": 195.0,
+    "doctor_durations": {
+      "carla": 195.0
+    }
+  },
+  {
+    "date": "2026-03-16",
+    "total_duration": 51.0,
+    "doctor_durations": {
+      "rachel": 51.0
+    }
+  },
+  {
+    "date": "2026-03-19",
+    "total_duration": 79.0,
+    "doctor_durations": {
+      "carla": 79.0
+    }
+  },
+  {
+    "date": "2026-03-30",
+    "total_duration": 378.0,
+    "doctor_durations": {
+      "rachel": 378.0
+    }
+  },
+  {
+    "date": "2026-04-02",
+    "total_duration": 191.0,
+    "doctor_durations": {
+      "carla": 191.0
+    }
+  },
+  {
+    "date": "2026-04-06",
+    "total_duration": 383.0,
+    "doctor_durations": {
+      "carla": 383.0
+    }
+  },
+  {
+    "date": "2026-04-07",
+    "total_duration": 319.0,
+    "doctor_durations": {
+      "warren": 319.0
+    }
+  },
+  {
+    "date": "2026-04-13",
+    "total_duration": 435.0,
+    "doctor_durations": {
+      "rachel": 435.0
+    }
+  }
+]

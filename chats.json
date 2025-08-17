@@ -1,0 +1,3572 @@
+[
+  {
+    "message_id": "msg_1a",
+    "date": "2025-08-18",
+    "actor": "Rohan",
+    "text": "I\u2019m heading to Riyadh soon. What quick workouts can I do in a hotel room?",
+    "tags": [
+      "travel"
+    ],
+    "timestamp": "2025-08-18T09:17:00"
+  },
+  {
+    "message_id": "msg_1b",
+    "date": "2025-08-18",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Rachel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-08-18T09:56:00"
+  },
+  {
+    "message_id": "msg_1c",
+    "date": "2025-08-18",
+    "actor": "rachel",
+    "text": "Sorry, currently not available, will reach out to you later.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-08-18T10:31:00"
+  },
+  {
+    "message_id": "msg_1d",
+    "date": "2025-08-18",
+    "actor": "Rohan",
+    "text": "Understood, thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-08-18T16:31:00"
+  },
+  {
+    "message_id": "msg_1_closing",
+    "date": "2025-08-18",
+    "actor": "ruby",
+    "text": "Appreciate your update, take care.",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-08-18T16:31:00"
+  },
+  {
+    "message_id": "msg_2a",
+    "date": "2025-08-18",
+    "actor": "Rohan",
+    "text": "I just got my Creatinine test back (1.02 mg/dL). What does that mean for my condition?",
+    "tags": [
+      "diagnostic_test"
+    ],
+    "timestamp": "2025-08-18T20:13:00"
+  },
+  {
+    "message_id": "msg_2b",
+    "date": "2025-08-18",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Warren will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-08-18T20:40:00"
+  },
+  {
+    "message_id": "msg_2c",
+    "date": "2025-08-18",
+    "actor": "warren",
+    "text": "Your creatinine level of 1.02 mg/dL is within the normal range (0.7\u20131.3 mg/dL for adult males or 0.6\u20131.1 mg/dL for adult females), indicating healthy kidney function.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-08-18T21:30:00"
+  },
+  {
+    "message_id": "msg_2d",
+    "date": "2025-08-18",
+    "actor": "Rohan",
+    "text": "Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-08-18T23:00:00"
+  },
+  {
+    "message_id": "msg_2_closing",
+    "date": "2025-08-18",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-08-18T23:00:00"
+  },
+  {
+    "message_id": "msg_3a",
+    "date": "2025-08-19",
+    "actor": "Rohan",
+    "text": "I tried adding yoga to my routine. Is it enough for flexibility and recovery?",
+    "tags": [
+      "exercise_update"
+    ],
+    "timestamp": "2025-08-19T13:19:00"
+  },
+  {
+    "message_id": "msg_3b",
+    "date": "2025-08-19",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Rachel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-08-19T13:48:00"
+  },
+  {
+    "message_id": "msg_3c",
+    "date": "2025-08-19",
+    "actor": "rachel",
+    "text": "Yoga can improve flexibility and aid recovery, but supplement it with targeted mobility drills and controlled dynamic stretches for optimal results.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-08-19T14:20:00"
+  },
+  {
+    "message_id": "msg_3d",
+    "date": "2025-08-19",
+    "actor": "Rohan",
+    "text": "Thank you for the suggestion.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-08-19T16:20:00"
+  },
+  {
+    "message_id": "msg_3_closing",
+    "date": "2025-08-19",
+    "actor": "ruby",
+    "text": "Noted. Wishing you good health!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-08-19T16:20:00"
+  },
+  {
+    "message_id": "msg_4a",
+    "date": "2025-08-29",
+    "actor": "Rohan",
+    "text": "I drank more coffee than usual. Could that be harmful?",
+    "tags": [
+      "diet_update"
+    ],
+    "timestamp": "2025-08-29T15:15:00"
+  },
+  {
+    "message_id": "msg_4b",
+    "date": "2025-08-29",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Carla will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-08-29T15:40:00"
+  },
+  {
+    "message_id": "msg_4c",
+    "date": "2025-08-29",
+    "actor": "carla",
+    "text": "Drinking excessive coffee can lead to side effects like jitters, insomnia, or digestive issues, but moderate intake (up to 400mg caffeine/day) is generally safe for most people.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-08-29T16:07:00"
+  },
+  {
+    "message_id": "msg_4d",
+    "date": "2025-08-29",
+    "actor": "Rohan",
+    "text": "Thank you for the information.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-08-29T20:07:00"
+  },
+  {
+    "message_id": "msg_4_closing",
+    "date": "2025-08-29",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-08-29T20:07:00"
+  },
+  {
+    "message_id": "msg_5a",
+    "date": "2025-08-31",
+    "actor": "Rohan",
+    "text": "The diet suggestions don\u2019t really match the foods I usually eat.",
+    "tags": [
+      "dissatisfaction"
+    ],
+    "timestamp": "2025-08-31T22:29:00"
+  },
+  {
+    "message_id": "msg_5b",
+    "date": "2025-08-31",
+    "actor": "ruby",
+    "text": "I\u2019ll connect you with Nutritionist Carla for personalized guidance.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-08-31T23:00:00"
+  },
+  {
+    "message_id": "msg_5c",
+    "date": "2025-08-31",
+    "actor": "Rohan",
+    "text": "Understood. Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-08-31T23:00:00"
+  },
+  {
+    "message_id": "msg_5_closing",
+    "date": "2025-08-31",
+    "actor": "ruby",
+    "text": "Appreciate your update, take care.",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-08-31T23:00:00"
+  },
+  {
+    "message_id": "msg_6a",
+    "date": "2025-09-01",
+    "actor": "Rohan",
+    "text": "I want to increase my stamina \u2014 should I focus more on cardio or strength?",
+    "tags": [
+      "exercise_update"
+    ],
+    "timestamp": "2025-09-01T16:10:00"
+  },
+  {
+    "message_id": "msg_6b",
+    "date": "2025-09-01",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Rachel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-09-01T16:54:00"
+  },
+  {
+    "message_id": "msg_6c",
+    "date": "2025-09-01",
+    "actor": "rachel",
+    "text": "For stamina, prioritize cardio (like running or cycling) but include strength training twice a week to support endurance and efficiency.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-09-01T17:28:00"
+  },
+  {
+    "message_id": "msg_6d",
+    "date": "2025-09-01",
+    "actor": "Rohan",
+    "text": "Thank you for the suggestion. I'll focus more on cardio exercises like running or cycling and ensure to include strength training twice a week.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-09-01T20:28:00"
+  },
+  {
+    "message_id": "msg_6_closing",
+    "date": "2025-09-01",
+    "actor": "ruby",
+    "text": "Noted. Wishing you good health!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-09-01T20:28:00"
+  },
+  {
+    "message_id": "msg_7a",
+    "date": "2025-09-07",
+    "actor": "Rohan",
+    "text": "What\u2019s the best time of day to exercise for lowering cholesterol?",
+    "tags": [
+      "general_query"
+    ],
+    "timestamp": "2025-09-07T18:17:00"
+  },
+  {
+    "message_id": "msg_7b",
+    "date": "2025-09-07",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Carla will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-09-07T19:00:00"
+  },
+  {
+    "message_id": "msg_7c",
+    "date": "2025-09-07",
+    "actor": "carla",
+    "text": "Morning exercise may be most effective for lowering cholesterol, as it can boost fat metabolism and improve lipid profiles.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-09-07T19:34:00"
+  },
+  {
+    "message_id": "msg_7d",
+    "date": "2025-09-07",
+    "actor": "Rohan",
+    "text": "ok, thank you",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-09-07T23:00:00"
+  },
+  {
+    "message_id": "msg_7_closing",
+    "date": "2025-09-07",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-09-07T23:00:00"
+  },
+  {
+    "message_id": "msg_8a",
+    "date": "2025-09-08",
+    "actor": "Rohan",
+    "text": "I\u2019ll be spending a week in Singapore. How can I keep my cholesterol under control during travel?",
+    "tags": [
+      "travel"
+    ],
+    "timestamp": "2025-09-08T07:34:00"
+  },
+  {
+    "message_id": "msg_8b",
+    "date": "2025-09-08",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Carla will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-09-08T08:05:00"
+  },
+  {
+    "message_id": "msg_8c",
+    "date": "2025-09-08",
+    "actor": "carla",
+    "text": "To manage cholesterol while traveling in Singapore, focus on these key steps:  \n- Choose grilled, steamed, or stir-fried dishes (avoid fried/saucy foods).  \n- Opt for lean proteins like fish, chicken, or tofu (limit processed meats).  \n- Prioritize fiber with vegetables, brown rice, or whole-grain noodles.  \n- Snack on nuts or fruit instead of pastries.  \n- Stay hydrated (water > sugary drinks).  \n- Walk often (use public transport/explore on foot).  \n\nIf you share current weight/diet habits, I can refine suggestions.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-09-08T08:51:00"
+  },
+  {
+    "message_id": "msg_8d",
+    "date": "2025-09-08",
+    "actor": "Rohan",
+    "text": "Thank you for the suggestions.  \n\nFor context:  \n- Current weight: **68.4kg** (stable).  \n- Recent diet adjustments: **Low-carb, high-protein**, increased vegetables, and consistent **2L water/day**.  \n\nWill focus on your recommendations while in Singapore.  \n\n*(No further data requested \u2014 ending with acknowledgment.)*  \n\nThank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-09-08T14:51:00"
+  },
+  {
+    "message_id": "msg_8_closing",
+    "date": "2025-09-08",
+    "actor": "ruby",
+    "text": "Appreciate your update, take care.",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-09-08T14:51:00"
+  },
+  {
+    "message_id": "msg_9a",
+    "date": "2025-09-08",
+    "actor": "Rohan",
+    "text": "I had a heavy dinner last night. Should I balance it out today?",
+    "tags": [
+      "diet_update"
+    ],
+    "timestamp": "2025-09-08T16:39:00"
+  },
+  {
+    "message_id": "msg_9b",
+    "date": "2025-09-08",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Neel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-09-08T17:12:00"
+  },
+  {
+    "message_id": "msg_9c",
+    "date": "2025-09-08",
+    "actor": "neel",
+    "text": "Sorry, currently not available, will reach out to you later.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-09-08T17:47:00"
+  },
+  {
+    "message_id": "msg_9d",
+    "date": "2025-09-08",
+    "actor": "Rohan",
+    "text": "Thank you for letting me know. I'll await your response.  \n\n(Note: Conversation ends as the doctor did not request any information.)",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-09-08T19:47:00"
+  },
+  {
+    "message_id": "msg_9_closing",
+    "date": "2025-09-08",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-09-08T19:47:00"
+  },
+  {
+    "message_id": "msg_10a",
+    "date": "2025-09-09",
+    "actor": "Rohan",
+    "text": "I have taken my medication today. Currently my BP is 108/84 and weight is 67.9 kg.",
+    "tags": [
+      "medication_review"
+    ],
+    "timestamp": "2025-09-09T08:34:00"
+  },
+  {
+    "message_id": "msg_10b",
+    "date": "2025-09-09",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Warren will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-09-09T09:11:00"
+  },
+  {
+    "message_id": "msg_10c",
+    "date": "2025-09-09",
+    "actor": "warren",
+    "text": "Your BP of 108/84 is within normal range. Continue monitoring as prescribed.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-09-09T09:37:00"
+  },
+  {
+    "message_id": "msg_10d",
+    "date": "2025-09-09",
+    "actor": "Rohan",
+    "text": "Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-09-09T12:37:00"
+  },
+  {
+    "message_id": "msg_10_closing",
+    "date": "2025-09-09",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-09-09T12:37:00"
+  },
+  {
+    "message_id": "msg_11a",
+    "date": "2025-09-15",
+    "actor": "Rohan",
+    "text": "How do I balance rest days with staying active?",
+    "tags": [
+      "exercise_update"
+    ],
+    "timestamp": "2025-09-15T13:42:00"
+  },
+  {
+    "message_id": "msg_11b",
+    "date": "2025-09-15",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Neel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-09-15T14:32:00"
+  },
+  {
+    "message_id": "msg_11c",
+    "date": "2025-09-15",
+    "actor": "neel",
+    "text": "Plan active recovery days with light activities like walking or stretching, and schedule regular rest days based on your body's feedback and workout intensity. Alternate between high-intensity and low-intensity days to maintain balance.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-09-15T15:01:00"
+  },
+  {
+    "message_id": "msg_11d",
+    "date": "2025-09-15",
+    "actor": "Rohan",
+    "text": "Thank you for the suggestion. I will incorporate active recovery days and adjust my routine based on my body's feedback.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-09-15T19:01:00"
+  },
+  {
+    "message_id": "msg_11_closing",
+    "date": "2025-09-15",
+    "actor": "ruby",
+    "text": "Appreciate your update, take care.",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-09-15T19:01:00"
+  },
+  {
+    "message_id": "msg_12a",
+    "date": "2025-09-16",
+    "actor": "Rohan",
+    "text": "My back hurt a bit during activity.",
+    "tags": [
+      "pain_report"
+    ],
+    "timestamp": "2025-09-16T18:36:00"
+  },
+  {
+    "message_id": "msg_12b",
+    "date": "2025-09-16",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Rachel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-09-16T19:16:00"
+  },
+  {
+    "message_id": "msg_12c",
+    "date": "2025-09-16",
+    "actor": "rachel",
+    "text": "Assess your posture during activity and perform gentle back stretches like cat-cow or child's pose post-session. Strengthen core muscles to reduce strain\u2014avoid heavy lifting until pain subsides.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-09-16T20:04:00"
+  },
+  {
+    "message_id": "msg_12d",
+    "date": "2025-09-16",
+    "actor": "Rohan",
+    "text": "ok, thank you",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-09-16T23:00:00"
+  },
+  {
+    "message_id": "msg_12_closing",
+    "date": "2025-09-16",
+    "actor": "ruby",
+    "text": "Noted. Wishing you good health!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-09-16T23:00:00"
+  },
+  {
+    "message_id": "msg_13a",
+    "date": "2025-09-22",
+    "actor": "Rohan",
+    "text": "I have taken my medication today. Currently my BP is 110/91 and weight is 66.0 kg.",
+    "tags": [
+      "medication_review"
+    ],
+    "timestamp": "2025-09-22T16:47:00"
+  },
+  {
+    "message_id": "msg_13b",
+    "date": "2025-09-22",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Warren will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-09-22T17:27:00"
+  },
+  {
+    "message_id": "msg_13c",
+    "date": "2025-09-22",
+    "actor": "warren",
+    "text": "Sorry, currently not available, will reach out to you later.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-09-22T18:06:00"
+  },
+  {
+    "message_id": "msg_13d",
+    "date": "2025-09-22",
+    "actor": "Rohan",
+    "text": "Understood. I'll be available whenever you need me. Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-09-22T20:06:00"
+  },
+  {
+    "message_id": "msg_13_closing",
+    "date": "2025-09-22",
+    "actor": "ruby",
+    "text": "Noted. Wishing you good health!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-09-22T20:06:00"
+  },
+  {
+    "message_id": "msg_14a",
+    "date": "2025-09-26",
+    "actor": "Rohan",
+    "text": "I attempted intermittent fasting. Any suggestions?",
+    "tags": [
+      "diet_update"
+    ],
+    "timestamp": "2025-09-26T18:44:00"
+  },
+  {
+    "message_id": "msg_14b",
+    "date": "2025-09-26",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Carla will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-09-26T19:32:00"
+  },
+  {
+    "message_id": "msg_14c",
+    "date": "2025-09-26",
+    "actor": "carla",
+    "text": "To optimize intermittent fasting, ensure you're drinking plenty of water and focus on nutrient-dense meals during your eating window\u2014prioritize proteins, healthy fats, and fiber. Gradually adjust your fasting window if needed (e.g., start with 12 hours and increase slowly). Monitor energy levels and adjust meal timing if you experience fatigue.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-09-26T20:20:00"
+  },
+  {
+    "message_id": "msg_14d",
+    "date": "2025-09-26",
+    "actor": "Rohan",
+    "text": "Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-09-26T23:00:00"
+  },
+  {
+    "message_id": "msg_14_closing",
+    "date": "2025-09-26",
+    "actor": "ruby",
+    "text": "Appreciate your update, take care.",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-09-26T23:00:00"
+  },
+  {
+    "message_id": "msg_15a",
+    "date": "2025-09-29",
+    "actor": "Rohan",
+    "text": "I\u2019ll be spending a week in Toronto. How can I keep my cholesterol under control during travel?",
+    "tags": [
+      "travel"
+    ],
+    "timestamp": "2025-09-29T09:12:00"
+  },
+  {
+    "message_id": "msg_15b",
+    "date": "2025-09-29",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Carla will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-09-29T09:54:00"
+  },
+  {
+    "message_id": "msg_15c",
+    "date": "2025-09-29",
+    "actor": "carla",
+    "text": "To manage cholesterol while traveling: opt for lean proteins (grilled chicken, fish), avoid fried foods, choose whole grains, load up on vegetables, and pick heart-healthy snacks like nuts or fruit. Limit processed foods and alcohol. Stay hydrated and try to keep active with walking. If needed, pack portable snacks like almonds or oat bars to avoid unhealthy options.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-09-29T10:32:00"
+  },
+  {
+    "message_id": "msg_15d",
+    "date": "2025-09-29",
+    "actor": "Rohan",
+    "text": "Thank you for the recommendations. I'll focus on these dietary adjustments and activity tips during travel.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-09-29T14:32:00"
+  },
+  {
+    "message_id": "msg_15_closing",
+    "date": "2025-09-29",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-09-29T14:32:00"
+  },
+  {
+    "message_id": "msg_16a",
+    "date": "2025-09-29",
+    "actor": "Rohan",
+    "text": "I missed a few workout sessions this week. How should I get back on track?",
+    "tags": [
+      "exercise_update"
+    ],
+    "timestamp": "2025-09-29T15:04:00"
+  },
+  {
+    "message_id": "msg_16b",
+    "date": "2025-09-29",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Rachel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-09-29T15:44:00"
+  },
+  {
+    "message_id": "msg_16c",
+    "date": "2025-09-29",
+    "actor": "rachel",
+    "text": "Sorry, currently not available, will reach out to you later.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-09-29T16:26:00"
+  },
+  {
+    "message_id": "msg_16d",
+    "date": "2025-09-29",
+    "actor": "Rohan",
+    "text": "Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-09-29T18:26:00"
+  },
+  {
+    "message_id": "msg_16_closing",
+    "date": "2025-09-29",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-09-29T18:26:00"
+  },
+  {
+    "message_id": "msg_17a",
+    "date": "2025-10-01",
+    "actor": "Rohan",
+    "text": "I read about intermittent fasting. Would it help with my cholesterol?",
+    "tags": [
+      "general_query"
+    ],
+    "timestamp": "2025-10-01T17:34:00"
+  },
+  {
+    "message_id": "msg_17b",
+    "date": "2025-10-01",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Carla will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-10-01T18:05:00"
+  },
+  {
+    "message_id": "msg_17c",
+    "date": "2025-10-01",
+    "actor": "carla",
+    "text": "Sorry, currently not available, will reach out to you later.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-10-01T18:55:00"
+  },
+  {
+    "message_id": "msg_17d",
+    "date": "2025-10-01",
+    "actor": "Rohan",
+    "text": "Thank you for letting me know. I'll be here when you're available.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-10-01T22:55:00"
+  },
+  {
+    "message_id": "msg_17_closing",
+    "date": "2025-10-01",
+    "actor": "ruby",
+    "text": "Appreciate your update, take care.",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-10-01T22:55:00"
+  },
+  {
+    "message_id": "msg_18a",
+    "date": "2025-10-03",
+    "actor": "Rohan",
+    "text": "I\u2019m not seeing much improvement even after following the plan.",
+    "tags": [
+      "dissatisfaction"
+    ],
+    "timestamp": "2025-10-03T14:05:00"
+  },
+  {
+    "message_id": "msg_18b",
+    "date": "2025-10-03",
+    "actor": "ruby",
+    "text": "I\u2019ll connect you with Dr. Warren to review your progress and adjust the plan accordingly.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-10-03T14:52:00"
+  },
+  {
+    "message_id": "msg_18c",
+    "date": "2025-10-03",
+    "actor": "Rohan",
+    "text": "ok, thank you",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-10-03T20:52:00"
+  },
+  {
+    "message_id": "msg_18_closing",
+    "date": "2025-10-03",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-10-03T20:52:00"
+  },
+  {
+    "message_id": "msg_19a",
+    "date": "2025-10-07",
+    "actor": "Rohan",
+    "text": "The diet suggestions don\u2019t really match the foods I usually eat.",
+    "tags": [
+      "dissatisfaction"
+    ],
+    "timestamp": "2025-10-07T13:40:00"
+  },
+  {
+    "message_id": "msg_19b",
+    "date": "2025-10-07",
+    "actor": "ruby",
+    "text": "I'll connect you with Carla, our Nutritionist, who can personalize recommendations for you.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-10-07T14:16:00"
+  },
+  {
+    "message_id": "msg_19c",
+    "date": "2025-10-07",
+    "actor": "Rohan",
+    "text": "ok, thank you",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-10-07T18:16:00"
+  },
+  {
+    "message_id": "msg_19_closing",
+    "date": "2025-10-07",
+    "actor": "ruby",
+    "text": "Noted. Wishing you good health!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-10-07T18:16:00"
+  },
+  {
+    "message_id": "msg_20a",
+    "date": "2025-10-13",
+    "actor": "Rohan",
+    "text": "I\u2019m not sure if I\u2019m progressing fast enough with strength training. Is this normal?",
+    "tags": [
+      "exercise_update"
+    ],
+    "timestamp": "2025-10-13T22:38:00"
+  },
+  {
+    "message_id": "msg_20b",
+    "date": "2025-10-13",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Rachel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-10-13T23:00:00"
+  },
+  {
+    "message_id": "msg_20c",
+    "date": "2025-10-13",
+    "actor": "rachel",
+    "text": "Sorry, currently not available, will reach out to you later.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-10-13T23:00:00"
+  },
+  {
+    "message_id": "msg_20d",
+    "date": "2025-10-13",
+    "actor": "Rohan",
+    "text": "Understood, thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-10-13T23:00:00"
+  },
+  {
+    "message_id": "msg_20_closing",
+    "date": "2025-10-13",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-10-13T23:00:00"
+  },
+  {
+    "message_id": "msg_21a",
+    "date": "2025-10-15",
+    "actor": "Rohan",
+    "text": "Would yoga or meditation help me manage stress and blood pressure?",
+    "tags": [
+      "general_query"
+    ],
+    "timestamp": "2025-10-15T19:01:00"
+  },
+  {
+    "message_id": "msg_21b",
+    "date": "2025-10-15",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Rachel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-10-15T19:50:00"
+  },
+  {
+    "message_id": "msg_21c",
+    "date": "2025-10-15",
+    "actor": "rachel",
+    "text": "Yes, both yoga and meditation can help manage stress and lower blood pressure by promoting relaxation and improving circulation.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-10-15T20:25:00"
+  },
+  {
+    "message_id": "msg_21d",
+    "date": "2025-10-15",
+    "actor": "Rohan",
+    "text": "Thank you for the suggestion. I'll consider incorporating yoga and meditation into my routine to help with stress and blood pressure.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-10-15T23:00:00"
+  },
+  {
+    "message_id": "msg_21_closing",
+    "date": "2025-10-15",
+    "actor": "ruby",
+    "text": "Noted. Wishing you good health!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-10-15T23:00:00"
+  },
+  {
+    "message_id": "msg_22a",
+    "date": "2025-10-20",
+    "actor": "Rohan",
+    "text": "Traveling to Seoul means long flights. Any advice to stay active and reduce fatigue?",
+    "tags": [
+      "travel"
+    ],
+    "timestamp": "2025-10-20T15:03:00"
+  },
+  {
+    "message_id": "msg_22b",
+    "date": "2025-10-20",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Advik will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-10-20T15:44:00"
+  },
+  {
+    "message_id": "msg_22c",
+    "date": "2025-10-20",
+    "actor": "advik",
+    "text": "Sorry, currently not available, will reach out to you later.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-10-20T16:28:00"
+  },
+  {
+    "message_id": "msg_22d",
+    "date": "2025-10-20",
+    "actor": "Rohan",
+    "text": "Understood, thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-10-20T19:28:00"
+  },
+  {
+    "message_id": "msg_22_closing",
+    "date": "2025-10-20",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-10-20T19:28:00"
+  },
+  {
+    "message_id": "msg_23a",
+    "date": "2025-10-21",
+    "actor": "Rohan",
+    "text": "I have taken my medication today. Currently my BP is 107/97 and weight is 67.0 kg.",
+    "tags": [
+      "medication_review"
+    ],
+    "timestamp": "2025-10-21T13:42:00"
+  },
+  {
+    "message_id": "msg_23b",
+    "date": "2025-10-21",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Warren will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-10-21T14:09:00"
+  },
+  {
+    "message_id": "msg_23c",
+    "date": "2025-10-21",
+    "actor": "warren",
+    "text": "Your diastolic blood pressure (97 mmHg) is elevated (normal <80 mmHg). Prioritize salt restriction, hydration, and recheck BP. If persistently elevated despite medication, consider dose adjustment or secondary causes (e.g., renal/endocrine). Monitor for symptoms (headache, dizziness). Your systolic pressure (107 mmHg) is well-controlled.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-10-21T14:48:00"
+  },
+  {
+    "message_id": "msg_23d",
+    "date": "2025-10-21",
+    "actor": "Rohan",
+    "text": "ok, thank you",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-10-21T17:48:00"
+  },
+  {
+    "message_id": "msg_23_closing",
+    "date": "2025-10-21",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-10-21T17:48:00"
+  },
+  {
+    "message_id": "msg_24a",
+    "date": "2025-10-27",
+    "actor": "Rohan",
+    "text": "I\u2019ve been struggling with recovery after workouts. What should I adjust?",
+    "tags": [
+      "exercise_update"
+    ],
+    "timestamp": "2025-10-27T12:23:00"
+  },
+  {
+    "message_id": "msg_24b",
+    "date": "2025-10-27",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Rachel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-10-27T12:53:00"
+  },
+  {
+    "message_id": "msg_24c",
+    "date": "2025-10-27",
+    "actor": "rachel",
+    "text": "Sorry, currently not available, will reach out to you later.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-10-27T13:33:00"
+  },
+  {
+    "message_id": "msg_24d",
+    "date": "2025-10-27",
+    "actor": "Rohan",
+    "text": "Thank you. I'll be available when you're ready.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-10-27T19:33:00"
+  },
+  {
+    "message_id": "msg_24_closing",
+    "date": "2025-10-27",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-10-27T19:33:00"
+  },
+  {
+    "message_id": "msg_25a",
+    "date": "2025-10-27",
+    "actor": "Rohan",
+    "text": "I have taken my medication today. Currently my BP is 103/101 and weight is 63.9 kg.",
+    "tags": [
+      "medication_review"
+    ],
+    "timestamp": "2025-10-27T20:21:00"
+  },
+  {
+    "message_id": "msg_25b",
+    "date": "2025-10-27",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Warren will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-10-27T20:54:00"
+  },
+  {
+    "message_id": "msg_25c",
+    "date": "2025-10-27",
+    "actor": "warren",
+    "text": "Your diastolic blood pressure (101 mmHg) is critically elevated (normal: <80 mmHg) - this requires immediate medical evaluation for hypertensive urgency. Your systolic reading (103 mmHg) is normal. The disproportionate elevation suggests either measurement error or a pathological process. Recheck BP with proper technique and seek emergency care if confirmed.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-10-27T21:39:00"
+  },
+  {
+    "message_id": "msg_25d",
+    "date": "2025-10-27",
+    "actor": "Rohan",
+    "text": "Understood. I will recheck the BP with proper technique and seek immediate medical evaluation if the diastolic reading remains elevated. Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-10-27T23:00:00"
+  },
+  {
+    "message_id": "msg_25_closing",
+    "date": "2025-10-27",
+    "actor": "ruby",
+    "text": "Noted. Wishing you good health!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-10-27T23:00:00"
+  },
+  {
+    "message_id": "msg_26a",
+    "date": "2025-10-28",
+    "actor": "Rohan",
+    "text": "I skipped breakfast today \u2014 does that affect my cholesterol?",
+    "tags": [
+      "diet_update"
+    ],
+    "timestamp": "2025-10-28T19:54:00"
+  },
+  {
+    "message_id": "msg_26b",
+    "date": "2025-10-28",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Carla will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-10-28T20:40:00"
+  },
+  {
+    "message_id": "msg_26c",
+    "date": "2025-10-28",
+    "actor": "carla",
+    "text": "Skipping breakfast occasionally is unlikely to directly affect your cholesterol levels, but regular skipping may lead to poor dietary choices later in the day, which can impact cholesterol.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-10-28T21:23:00"
+  },
+  {
+    "message_id": "msg_26d",
+    "date": "2025-10-28",
+    "actor": "Rohan",
+    "text": "ok, thank you",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-10-28T23:00:00"
+  },
+  {
+    "message_id": "msg_26_closing",
+    "date": "2025-10-28",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-10-28T23:00:00"
+  },
+  {
+    "message_id": "msg_27a",
+    "date": "2025-10-29",
+    "actor": "Rohan",
+    "text": "My back hurt a bit during activity.",
+    "tags": [
+      "pain_report"
+    ],
+    "timestamp": "2025-10-29T20:04:00"
+  },
+  {
+    "message_id": "msg_27b",
+    "date": "2025-10-29",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Rachel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-10-29T20:44:00"
+  },
+  {
+    "message_id": "msg_27c",
+    "date": "2025-10-29",
+    "actor": "rachel",
+    "text": "Check your posture and reduce the load. If pain persists, modify the activity and do gentle stretches for your lower back.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-10-29T21:11:00"
+  },
+  {
+    "message_id": "msg_27d",
+    "date": "2025-10-29",
+    "actor": "Rohan",
+    "text": "Understood, thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-10-29T23:00:00"
+  },
+  {
+    "message_id": "msg_27_closing",
+    "date": "2025-10-29",
+    "actor": "ruby",
+    "text": "Noted. Wishing you good health!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-10-29T23:00:00"
+  },
+  {
+    "message_id": "msg_28a",
+    "date": "2025-11-05",
+    "actor": "Rohan",
+    "text": "What\u2019s the best time of day to exercise for lowering cholesterol?",
+    "tags": [
+      "general_query"
+    ],
+    "timestamp": "2025-11-05T21:03:00"
+  },
+  {
+    "message_id": "msg_28b",
+    "date": "2025-11-05",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Carla will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-11-05T21:43:00"
+  },
+  {
+    "message_id": "msg_28c",
+    "date": "2025-11-05",
+    "actor": "carla",
+    "text": "Sorry, currently not available, will reach out to you later.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-11-05T22:31:00"
+  },
+  {
+    "message_id": "msg_28d",
+    "date": "2025-11-05",
+    "actor": "Rohan",
+    "text": "Understood. Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-11-05T23:00:00"
+  },
+  {
+    "message_id": "msg_28_closing",
+    "date": "2025-11-05",
+    "actor": "ruby",
+    "text": "Appreciate your update, take care.",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-11-05T23:00:00"
+  },
+  {
+    "message_id": "msg_29a",
+    "date": "2025-11-10",
+    "actor": "Rohan",
+    "text": "Next week I\u2019ll be in Mexico City. Any tips to manage meals and workouts there?",
+    "tags": [
+      "travel"
+    ],
+    "timestamp": "2025-11-10T16:53:00"
+  },
+  {
+    "message_id": "msg_29b",
+    "date": "2025-11-10",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Carla will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-11-10T17:26:00"
+  },
+  {
+    "message_id": "msg_29c",
+    "date": "2025-11-10",
+    "actor": "carla",
+    "text": "Pack portable snacks like nuts or protein bars for on-the-go meals, prioritize local protein sources (grilled meats, beans), stay hydrated, and opt for bodyweight workouts if gym access is limited. Adjust portions if meals are richer than usual\u2014stick to whole foods where possible.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-11-10T18:11:00"
+  },
+  {
+    "message_id": "msg_29d",
+    "date": "2025-11-10",
+    "actor": "Rohan",
+    "text": "Thank you. I\u2019ll keep these suggestions in mind and focus on whole foods and hydration.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-11-10T23:00:00"
+  },
+  {
+    "message_id": "msg_29_closing",
+    "date": "2025-11-10",
+    "actor": "ruby",
+    "text": "Noted. Wishing you good health!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-11-10T23:00:00"
+  },
+  {
+    "message_id": "msg_30a",
+    "date": "2025-11-11",
+    "actor": "Rohan",
+    "text": "I want to increase my stamina \u2014 should I focus more on cardio or strength?",
+    "tags": [
+      "exercise_update"
+    ],
+    "timestamp": "2025-11-11T18:16:00"
+  },
+  {
+    "message_id": "msg_30b",
+    "date": "2025-11-11",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Rachel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-11-11T18:42:00"
+  },
+  {
+    "message_id": "msg_30c",
+    "date": "2025-11-11",
+    "actor": "rachel",
+    "text": "Sorry, currently not available, will reach out to you later.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-11-11T19:25:00"
+  },
+  {
+    "message_id": "msg_30d",
+    "date": "2025-11-11",
+    "actor": "Rohan",
+    "text": "Understood. Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-11-11T21:25:00"
+  },
+  {
+    "message_id": "msg_30_closing",
+    "date": "2025-11-11",
+    "actor": "ruby",
+    "text": "Appreciate your update, take care.",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-11-11T21:25:00"
+  },
+  {
+    "message_id": "msg_31a",
+    "date": "2025-11-16",
+    "actor": "Rohan",
+    "text": "My recent HbA1c result was 4.33 %. Is that safe?",
+    "tags": [
+      "diagnostic_test"
+    ],
+    "timestamp": "2025-11-16T18:51:00"
+  },
+  {
+    "message_id": "msg_31b",
+    "date": "2025-11-16",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Neel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-11-16T19:25:00"
+  },
+  {
+    "message_id": "msg_31c",
+    "date": "2025-11-16",
+    "actor": "neel",
+    "text": "An HbA1c of 4.33% is unusually low and could indicate hypoglycemia (low blood sugar), which may not be safe. Consult your healthcare provider immediately to review your symptoms, medications, and overall health.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-11-16T20:00:00"
+  },
+  {
+    "message_id": "msg_31d",
+    "date": "2025-11-16",
+    "actor": "Rohan",
+    "text": "I'll consult my healthcare provider right away about the low HbA1c and possible hypoglycemia. Thank you for the recommendation.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-11-16T23:00:00"
+  },
+  {
+    "message_id": "msg_31_closing",
+    "date": "2025-11-16",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-11-16T23:00:00"
+  },
+  {
+    "message_id": "msg_32a",
+    "date": "2025-11-24",
+    "actor": "Rohan",
+    "text": "I tried adding yoga to my routine. Is it enough for flexibility and recovery?",
+    "tags": [
+      "exercise_update"
+    ],
+    "timestamp": "2025-11-24T10:53:00"
+  },
+  {
+    "message_id": "msg_32b",
+    "date": "2025-11-24",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Rachel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-11-24T11:38:00"
+  },
+  {
+    "message_id": "msg_32c",
+    "date": "2025-11-24",
+    "actor": "rachel",
+    "text": "Yoga is beneficial for flexibility and active recovery, but pairing it with targeted mobility drills and progressive stretching will optimize results\u2014especially if you have existing tightness or imbalances.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-11-24T12:09:00"
+  },
+  {
+    "message_id": "msg_32d",
+    "date": "2025-11-24",
+    "actor": "Rohan",
+    "text": "ok, thank you",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-11-24T14:09:00"
+  },
+  {
+    "message_id": "msg_32_closing",
+    "date": "2025-11-24",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-11-24T14:09:00"
+  },
+  {
+    "message_id": "msg_33a",
+    "date": "2025-11-27",
+    "actor": "Rohan",
+    "text": "Shoulder pain is bothering me slightly.",
+    "tags": [
+      "pain_report"
+    ],
+    "timestamp": "2025-11-27T17:13:00"
+  },
+  {
+    "message_id": "msg_33b",
+    "date": "2025-11-27",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Neel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-11-27T17:51:00"
+  },
+  {
+    "message_id": "msg_33c",
+    "date": "2025-11-27",
+    "actor": "neel",
+    "text": "Let\u2019s adjust your support to better address your shoulder pain\u2014would you like guidance on stretches or pain management techniques?",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-11-27T18:24:00"
+  },
+  {
+    "message_id": "msg_33d",
+    "date": "2025-11-27",
+    "actor": "Rohan",
+    "text": "ok, thank you",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-11-27T23:00:00"
+  },
+  {
+    "message_id": "msg_33_closing",
+    "date": "2025-11-27",
+    "actor": "ruby",
+    "text": "Noted. Wishing you good health!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-11-27T23:00:00"
+  },
+  {
+    "message_id": "msg_34a",
+    "date": "2025-12-01",
+    "actor": "Rohan",
+    "text": "I'm traveling to Jakarta soon. How do I stay on track with diet and exercise?",
+    "tags": [
+      "travel"
+    ],
+    "timestamp": "2025-12-01T07:59:00"
+  },
+  {
+    "message_id": "msg_34b",
+    "date": "2025-12-01",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Carla will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-12-01T08:29:00"
+  },
+  {
+    "message_id": "msg_34c",
+    "date": "2025-12-01",
+    "actor": "carla",
+    "text": "For Jakarta travel: Pack protein bars, nuts, and hydration tablets; choose grilled protein and veggies at meals; walk for local sightseeing; use hotel gyms or bodyweight exercises if a gym isn't available. Prioritize sleep and water to manage jet lag and digestion.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-12-01T09:16:00"
+  },
+  {
+    "message_id": "msg_34d",
+    "date": "2025-12-01",
+    "actor": "Rohan",
+    "text": "Thank you for the helpful suggestions.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-12-01T15:16:00"
+  },
+  {
+    "message_id": "msg_34_closing",
+    "date": "2025-12-01",
+    "actor": "ruby",
+    "text": "Appreciate your update, take care.",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-12-01T15:16:00"
+  },
+  {
+    "message_id": "msg_35a",
+    "date": "2025-12-08",
+    "actor": "Rohan",
+    "text": "After cycling, I feel more tired than usual. Is this something to worry about?",
+    "tags": [
+      "exercise_update"
+    ],
+    "timestamp": "2025-12-08T11:50:00"
+  },
+  {
+    "message_id": "msg_35b",
+    "date": "2025-12-08",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Rachel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-12-08T12:31:00"
+  },
+  {
+    "message_id": "msg_35c",
+    "date": "2025-12-08",
+    "actor": "rachel",
+    "text": "Fatigue after cycling can be normal, but monitor for signs like persistent weakness, dizziness, or disproportionate exhaustion\u2014these may indicate overtraining, dehydration, or nutrient deficiencies. Adjust intensity, hydration, and recovery time if needed.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-12-08T13:01:00"
+  },
+  {
+    "message_id": "msg_35d",
+    "date": "2025-12-08",
+    "actor": "Rohan",
+    "text": "Thank you for your suggestion. I'll keep an eye on those signs and make adjustments as needed.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-12-08T17:01:00"
+  },
+  {
+    "message_id": "msg_35_closing",
+    "date": "2025-12-08",
+    "actor": "ruby",
+    "text": "Appreciate your update, take care.",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-12-08T17:01:00"
+  },
+  {
+    "message_id": "msg_36a",
+    "date": "2025-12-09",
+    "actor": "Rohan",
+    "text": "My back hurt a bit during activity.",
+    "tags": [
+      "pain_report"
+    ],
+    "timestamp": "2025-12-09T22:34:00"
+  },
+  {
+    "message_id": "msg_36b",
+    "date": "2025-12-09",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Rachel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-12-09T23:00:00"
+  },
+  {
+    "message_id": "msg_36c",
+    "date": "2025-12-09",
+    "actor": "rachel",
+    "text": "Focus on gentle spinal mobility exercises like cat-cow stretches and avoid heavy lifting. Monitor pain levels during activity and stop if pain increases beyond mild discomfort.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-12-09T23:00:00"
+  },
+  {
+    "message_id": "msg_36d",
+    "date": "2025-12-09",
+    "actor": "Rohan",
+    "text": "Understood, I will focus on gentle spinal mobility exercises like cat-cow stretches, avoid heavy lifting, and monitor pain levels during activity. Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-12-09T23:00:00"
+  },
+  {
+    "message_id": "msg_36_closing",
+    "date": "2025-12-09",
+    "actor": "ruby",
+    "text": "Noted. Wishing you good health!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-12-09T23:00:00"
+  },
+  {
+    "message_id": "msg_37a",
+    "date": "2025-12-14",
+    "actor": "Rohan",
+    "text": "I have taken my medication today. Currently my BP is 115/90 and weight is 58.2 kg.",
+    "tags": [
+      "medication_review"
+    ],
+    "timestamp": "2025-12-14T15:50:00"
+  },
+  {
+    "message_id": "msg_37b",
+    "date": "2025-12-14",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Warren will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-12-14T16:23:00"
+  },
+  {
+    "message_id": "msg_37c",
+    "date": "2025-12-14",
+    "actor": "warren",
+    "text": "Current BP is well-controlled (115/90). Continue monitoring and adhere to your medication regimen. Maintain weight at 58.2 kg.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-12-14T16:50:00"
+  },
+  {
+    "message_id": "msg_37d",
+    "date": "2025-12-14",
+    "actor": "Rohan",
+    "text": "Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-12-14T21:50:00"
+  },
+  {
+    "message_id": "msg_37_closing",
+    "date": "2025-12-14",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-12-14T21:50:00"
+  },
+  {
+    "message_id": "msg_38a",
+    "date": "2025-12-16",
+    "actor": "Rohan",
+    "text": "I have taken my medication today. Currently my BP is 119/90 and weight is 56.9 kg.",
+    "tags": [
+      "medication_review"
+    ],
+    "timestamp": "2025-12-16T16:59:00"
+  },
+  {
+    "message_id": "msg_38b",
+    "date": "2025-12-16",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Warren will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-12-16T17:28:00"
+  },
+  {
+    "message_id": "msg_38c",
+    "date": "2025-12-16",
+    "actor": "warren",
+    "text": "Your diastolic BP is slightly elevated (90 mmHg); monitor for consistency and consider lifestyle adjustments if it persists. Weight is within normal range.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-12-16T18:15:00"
+  },
+  {
+    "message_id": "msg_38d",
+    "date": "2025-12-16",
+    "actor": "Rohan",
+    "text": "I'll continue monitoring my BP and focus on lifestyle adjustments. Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-12-16T20:15:00"
+  },
+  {
+    "message_id": "msg_38_closing",
+    "date": "2025-12-16",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-12-16T20:15:00"
+  },
+  {
+    "message_id": "msg_39a",
+    "date": "2025-12-16",
+    "actor": "Rohan",
+    "text": "I came across cold showers for recovery. Do they really work?",
+    "tags": [
+      "general_query"
+    ],
+    "timestamp": "2025-12-16T22:42:00"
+  },
+  {
+    "message_id": "msg_39b",
+    "date": "2025-12-16",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Rachel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-12-16T23:00:00"
+  },
+  {
+    "message_id": "msg_39c",
+    "date": "2025-12-16",
+    "actor": "rachel",
+    "text": "Cold showers can aid recovery by reducing muscle soreness and inflammation, but they may also limit long-term muscle adaptation, so use them strategically post-workout, not consistently.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-12-16T23:00:00"
+  },
+  {
+    "message_id": "msg_39d",
+    "date": "2025-12-16",
+    "actor": "Rohan",
+    "text": "Thank you for the suggestion. I'll consider strategic use of cold showers for recovery while being mindful of long-term adaptation.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-12-16T23:00:00"
+  },
+  {
+    "message_id": "msg_39_closing",
+    "date": "2025-12-16",
+    "actor": "ruby",
+    "text": "Appreciate your update, take care.",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-12-16T23:00:00"
+  },
+  {
+    "message_id": "msg_40a",
+    "date": "2025-12-19",
+    "actor": "Rohan",
+    "text": "I started adding nuts and seeds to my diet. Is that beneficial?",
+    "tags": [
+      "diet_update"
+    ],
+    "timestamp": "2025-12-19T12:20:00"
+  },
+  {
+    "message_id": "msg_40b",
+    "date": "2025-12-19",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Carla will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-12-19T12:50:00"
+  },
+  {
+    "message_id": "msg_40c",
+    "date": "2025-12-19",
+    "actor": "carla",
+    "text": "Yes, nuts and seeds are highly beneficial due to their healthy fats, fiber, protein, and essential vitamins. Control portions to avoid excess calories.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-12-19T13:33:00"
+  },
+  {
+    "message_id": "msg_40d",
+    "date": "2025-12-19",
+    "actor": "Rohan",
+    "text": "Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-12-19T17:33:00"
+  },
+  {
+    "message_id": "msg_40_closing",
+    "date": "2025-12-19",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-12-19T17:33:00"
+  },
+  {
+    "message_id": "msg_41a",
+    "date": "2025-12-22",
+    "actor": "Rohan",
+    "text": "Since I\u2019ll be in Chicago, should I adjust my medication or routine in any way?",
+    "tags": [
+      "travel"
+    ],
+    "timestamp": "2025-12-22T12:49:00"
+  },
+  {
+    "message_id": "msg_41b",
+    "date": "2025-12-22",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Warren will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-12-22T13:32:00"
+  },
+  {
+    "message_id": "msg_41c",
+    "date": "2025-12-22",
+    "actor": "warren",
+    "text": "No, unless you have specific lab values (e.g., ApoB, BP) indicating a need for adjustment. Travel alone doesn\u2019t typically require medication changes. Provide your current data for precise guidance.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-12-22T14:12:00"
+  },
+  {
+    "message_id": "msg_41d",
+    "date": "2025-12-22",
+    "actor": "Rohan",
+    "text": "Here is the most recent lab data (from 2025-12-20):\n- ApoB: 93.5  \n- BP: 117/95  \n- Total Cholesterol: 215.4  \n- LDL: 146.21  \n- HDL: 54.78  \n- Triglycerides: 162.9  \n- Fasting Glucose: 106.47  \n- HbA1c: 4.34  \n- ALT: 19.98  \n- Creatinine: 0.9  \n- TSH: 0.63  \n- CRP: 2.59  \n\nAdditional notes: Missed last two doses of Atorvastatin 10mg.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-12-22T17:12:00"
+  },
+  {
+    "message_id": "msg_41e",
+    "date": "2025-12-22",
+    "actor": "warren",
+    "text": "Elevated LDL (146 mg/dL) and ApoB (93.5 mg/dL) indicate residual dyslipidemia risk\u2014resume atorvastatin immediately. Diastolic BP (95 mmHg) is elevated; optimize lifestyle and monitor for hypertension. Fasting glucose (106 mg/dL) suggests prediabetes despite normal HbA1c; reassess glucose tolerance. CRP (2.59 mg/L) indicates mild systemic inflammation\u2014consider metabolic or vascular sources.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-12-22T17:52:00"
+  },
+  {
+    "message_id": "msg_41f",
+    "date": "2025-12-22",
+    "actor": "Rohan",
+    "text": "Noted. Will resume atorvastatin and monitor BP. Will also reassess glucose tolerance and investigate sources of inflammation.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-12-22T22:52:00"
+  },
+  {
+    "message_id": "msg_41g",
+    "date": "2025-12-22",
+    "actor": "warren",
+    "text": "Continue current statin therapy, implement BP monitoring protocol, schedule fasting glucose/HbA1c, and order hs-CRP to evaluate inflammatory status.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-12-22T23:00:00"
+  },
+  {
+    "message_id": "msg_41h",
+    "date": "2025-12-22",
+    "actor": "Rohan",
+    "text": "Will continue atorvastatin 10mg with reminders to improve adherence.  \n\nWill monitor blood pressure twice weekly and log readings for review.  \n\nScheduled fasting glucose and HbA1c for next follow-up.  \n\nhs-CRP test ordered to assess inflammation.  \n\nThank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-12-22T23:00:00"
+  },
+  {
+    "message_id": "msg_41_closing",
+    "date": "2025-12-22",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-12-22T23:00:00"
+  },
+  {
+    "message_id": "msg_42a",
+    "date": "2025-12-23",
+    "actor": "Rohan",
+    "text": "I tried adding yoga to my routine. Is it enough for flexibility and recovery?",
+    "tags": [
+      "exercise_update"
+    ],
+    "timestamp": "2025-12-23T13:26:00"
+  },
+  {
+    "message_id": "msg_42b",
+    "date": "2025-12-23",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Rachel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-12-23T13:59:00"
+  },
+  {
+    "message_id": "msg_42c",
+    "date": "2025-12-23",
+    "actor": "rachel",
+    "text": "Yoga can help but lacks progressive overload; pair it with dynamic stretching and active recovery (foam rolling, mobility drills) for optimal results. Adjust based on your session logs if available.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-12-23T14:44:00"
+  },
+  {
+    "message_id": "msg_42d",
+    "date": "2025-12-23",
+    "actor": "Rohan",
+    "text": "Acknowledged with thanks.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-12-23T19:44:00"
+  },
+  {
+    "message_id": "msg_42_closing",
+    "date": "2025-12-23",
+    "actor": "ruby",
+    "text": "Appreciate your update, take care.",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-12-23T19:44:00"
+  },
+  {
+    "message_id": "msg_43a",
+    "date": "2025-12-24",
+    "actor": "Rohan",
+    "text": "I have taken my medication today. Currently my BP is 119/94 and weight is 53.3 kg.",
+    "tags": [
+      "medication_review"
+    ],
+    "timestamp": "2025-12-24T18:18:00"
+  },
+  {
+    "message_id": "msg_43b",
+    "date": "2025-12-24",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Warren will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2025-12-24T18:52:00"
+  },
+  {
+    "message_id": "msg_43c",
+    "date": "2025-12-24",
+    "actor": "warren",
+    "text": "Your pulse pressure (25 mmHg) is narrow, suggesting potential arterial stiffness or volume overload. Recheck BP with proper technique (seated, rested, arm supported). Monitor for sustained elevated diastolic (>90).",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2025-12-24T19:35:00"
+  },
+  {
+    "message_id": "msg_43d",
+    "date": "2025-12-24",
+    "actor": "Rohan",
+    "text": "I will recheck my BP with the proper technique (seated, rested, arm supported) and monitor for consistently elevated diastolic readings above 90. Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2025-12-24T23:00:00"
+  },
+  {
+    "message_id": "msg_43_closing",
+    "date": "2025-12-24",
+    "actor": "ruby",
+    "text": "Noted. Wishing you good health!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2025-12-24T23:00:00"
+  },
+  {
+    "message_id": "msg_44a",
+    "date": "2026-01-05",
+    "actor": "Rohan",
+    "text": "I\u2019m not sure if I\u2019m progressing fast enough with strength training. Is this normal?",
+    "tags": [
+      "exercise_update"
+    ],
+    "timestamp": "2026-01-05T21:36:00"
+  },
+  {
+    "message_id": "msg_44b",
+    "date": "2026-01-05",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Rachel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-01-05T22:18:00"
+  },
+  {
+    "message_id": "msg_44c",
+    "date": "2026-01-05",
+    "actor": "rachel",
+    "text": "Progress varies by individual\u2014focus on consistent form, gradual load increases, and recovery. Check if you're hitting small weekly milestones (e.g., reps, weight) rather than speed. Share specific details (e.g., lifts, pain) for tailored advice.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-01-05T22:59:00"
+  },
+  {
+    "message_id": "msg_44d",
+    "date": "2026-01-05",
+    "actor": "Rohan",
+    "text": "Noted. Will focus on gradual progress and share more specifics if needed\u2014thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-01-05T23:00:00"
+  },
+  {
+    "message_id": "msg_44_closing",
+    "date": "2026-01-05",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-01-05T23:00:00"
+  },
+  {
+    "message_id": "msg_45a",
+    "date": "2026-01-06",
+    "actor": "Rohan",
+    "text": "I feel like the plan is too strict and hard to follow daily.",
+    "tags": [
+      "dissatisfaction"
+    ],
+    "timestamp": "2026-01-06T14:43:00"
+  },
+  {
+    "message_id": "msg_45b",
+    "date": "2026-01-06",
+    "actor": "ruby",
+    "text": "I'll have Advik, our Performance Scientist, assess your plan and suggest adjustments to make it more sustainable for you.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-01-06T15:23:00"
+  },
+  {
+    "message_id": "msg_45c",
+    "date": "2026-01-06",
+    "actor": "Rohan",
+    "text": "Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-01-06T19:23:00"
+  },
+  {
+    "message_id": "msg_45_closing",
+    "date": "2026-01-06",
+    "actor": "ruby",
+    "text": "Noted. Wishing you good health!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-01-06T19:23:00"
+  },
+  {
+    "message_id": "msg_46a",
+    "date": "2026-01-08",
+    "actor": "Rohan",
+    "text": "How important is sleep quality for my heart health?",
+    "tags": [
+      "general_query"
+    ],
+    "timestamp": "2026-01-08T14:57:00"
+  },
+  {
+    "message_id": "msg_46b",
+    "date": "2026-01-08",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Advik will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-01-08T15:39:00"
+  },
+  {
+    "message_id": "msg_46c",
+    "date": "2026-01-08",
+    "actor": "advik",
+    "text": "Sorry, currently not available, will reach out to you later.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-01-08T16:23:00"
+  },
+  {
+    "message_id": "msg_46d",
+    "date": "2026-01-08",
+    "actor": "Rohan",
+    "text": "Understood. Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-01-08T18:23:00"
+  },
+  {
+    "message_id": "msg_46_closing",
+    "date": "2026-01-08",
+    "actor": "ruby",
+    "text": "Appreciate your update, take care.",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-01-08T18:23:00"
+  },
+  {
+    "message_id": "msg_47a",
+    "date": "2026-01-09",
+    "actor": "Rohan",
+    "text": "How much water should I aim to drink daily for my condition?",
+    "tags": [
+      "general_query"
+    ],
+    "timestamp": "2026-01-09T20:35:00"
+  },
+  {
+    "message_id": "msg_47b",
+    "date": "2026-01-09",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Carla will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-01-09T21:19:00"
+  },
+  {
+    "message_id": "msg_47c",
+    "date": "2026-01-09",
+    "actor": "carla",
+    "text": "Aim for 8-10 cups (64-80 oz) of water daily, adjusting for activity level and climate. If you share your weight or specific condition, I can refine this.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-01-09T22:07:00"
+  },
+  {
+    "message_id": "msg_47d",
+    "date": "2026-01-09",
+    "actor": "Rohan",
+    "text": "Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-01-09T23:00:00"
+  },
+  {
+    "message_id": "msg_47_closing",
+    "date": "2026-01-09",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-01-09T23:00:00"
+  },
+  {
+    "message_id": "msg_48a",
+    "date": "2026-01-12",
+    "actor": "Rohan",
+    "text": "Meals might be irregular while I\u2019m in Sydney. How do I maintain good nutrition?",
+    "tags": [
+      "travel"
+    ],
+    "timestamp": "2026-01-12T16:03:00"
+  },
+  {
+    "message_id": "msg_48b",
+    "date": "2026-01-12",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Carla will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-01-12T16:40:00"
+  },
+  {
+    "message_id": "msg_48c",
+    "date": "2026-01-12",
+    "actor": "carla",
+    "text": "Pack nutrient-dense snacks like nuts, protein bars, and dried fruit for on-the-go. Prioritize protein, fiber, and veggies in meals when available, and stay hydrated. Adjust portions based on activity levels to compensate for irregular timing.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-01-12T17:21:00"
+  },
+  {
+    "message_id": "msg_48d",
+    "date": "2026-01-12",
+    "actor": "Rohan",
+    "text": "Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-01-12T20:21:00"
+  },
+  {
+    "message_id": "msg_48_closing",
+    "date": "2026-01-12",
+    "actor": "ruby",
+    "text": "Noted. Wishing you good health!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-01-12T20:21:00"
+  },
+  {
+    "message_id": "msg_49a",
+    "date": "2026-01-18",
+    "actor": "Rohan",
+    "text": "Would yoga or meditation help me manage stress and blood pressure?",
+    "tags": [
+      "general_query"
+    ],
+    "timestamp": "2026-01-18T10:13:00"
+  },
+  {
+    "message_id": "msg_49b",
+    "date": "2026-01-18",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Rachel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-01-18T11:01:00"
+  },
+  {
+    "message_id": "msg_49c",
+    "date": "2026-01-18",
+    "actor": "rachel",
+    "text": "Yes, both yoga and meditation can effectively reduce stress and lower blood pressure by promoting relaxation and improving circulation.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-01-18T11:48:00"
+  },
+  {
+    "message_id": "msg_49d",
+    "date": "2026-01-18",
+    "actor": "Rohan",
+    "text": "Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-01-18T14:48:00"
+  },
+  {
+    "message_id": "msg_49_closing",
+    "date": "2026-01-18",
+    "actor": "ruby",
+    "text": "Appreciate your update, take care.",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-01-18T14:48:00"
+  },
+  {
+    "message_id": "msg_50a",
+    "date": "2026-01-19",
+    "actor": "Rohan",
+    "text": "My strength training feels better, but cardio is exhausting me more. Any suggestions?",
+    "tags": [
+      "exercise_update"
+    ],
+    "timestamp": "2026-01-19T12:02:00"
+  },
+  {
+    "message_id": "msg_50b",
+    "date": "2026-01-19",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Rachel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-01-19T12:52:00"
+  },
+  {
+    "message_id": "msg_50c",
+    "date": "2026-01-19",
+    "actor": "rachel",
+    "text": "Focus on gradually increasing cardio duration (10% per week) and incorporate interval training (30s high intensity/1min recovery). Monitor heart rate to stay in zone 2-3 for most sessions.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-01-19T13:34:00"
+  },
+  {
+    "message_id": "msg_50d",
+    "date": "2026-01-19",
+    "actor": "Rohan",
+    "text": "Thank you for the recommendation. I will gradually increase my cardio duration as suggested and incorporate interval training while monitoring my heart rate.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-01-19T17:34:00"
+  },
+  {
+    "message_id": "msg_50_closing",
+    "date": "2026-01-19",
+    "actor": "ruby",
+    "text": "Noted. Wishing you good health!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-01-19T17:34:00"
+  },
+  {
+    "message_id": "msg_51a",
+    "date": "2026-01-20",
+    "actor": "Rohan",
+    "text": "I drank more coffee than usual. Could that be harmful?",
+    "tags": [
+      "diet_update"
+    ],
+    "timestamp": "2026-01-20T09:40:00"
+  },
+  {
+    "message_id": "msg_51b",
+    "date": "2026-01-20",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Carla will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-01-20T10:23:00"
+  },
+  {
+    "message_id": "msg_51c",
+    "date": "2026-01-20",
+    "actor": "carla",
+    "text": "Excessive coffee can lead to increased anxiety, sleep disruptions, or digestive issues\u2014moderation is key (usually 3\u20134 cups/day max). Let me know if you notice any symptoms.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-01-20T10:51:00"
+  },
+  {
+    "message_id": "msg_51d",
+    "date": "2026-01-20",
+    "actor": "Rohan",
+    "text": "Thank you for the advice\u2014I'll monitor for any symptoms and keep coffee intake moderate.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-01-20T13:51:00"
+  },
+  {
+    "message_id": "msg_51_closing",
+    "date": "2026-01-20",
+    "actor": "ruby",
+    "text": "Noted. Wishing you good health!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-01-20T13:51:00"
+  },
+  {
+    "message_id": "msg_52a",
+    "date": "2026-01-25",
+    "actor": "Rohan",
+    "text": "Had some fast food recently. How can I recover from that?",
+    "tags": [
+      "diet_update"
+    ],
+    "timestamp": "2026-01-25T13:44:00"
+  },
+  {
+    "message_id": "msg_52b",
+    "date": "2026-01-25",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Carla will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-01-25T14:20:00"
+  },
+  {
+    "message_id": "msg_52c",
+    "date": "2026-01-25",
+    "actor": "carla",
+    "text": "Focus on hydrating, eating fiber-rich foods (veggies, fruits, whole grains), and lean proteins to balance blood sugar. A probiotic (like yogurt or fermented foods) can help gut health. Resume your usual balanced meals ASAP\u2014one fast-food meal won\u2019t derail progress.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-01-25T15:05:00"
+  },
+  {
+    "message_id": "msg_52d",
+    "date": "2026-01-25",
+    "actor": "Rohan",
+    "text": "Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-01-25T17:05:00"
+  },
+  {
+    "message_id": "msg_52_closing",
+    "date": "2026-01-25",
+    "actor": "ruby",
+    "text": "Noted. Wishing you good health!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-01-25T17:05:00"
+  },
+  {
+    "message_id": "msg_53a",
+    "date": "2026-02-02",
+    "actor": "Rohan",
+    "text": "I'm traveling to Hong Kong soon. How do I stay on track with diet and exercise?",
+    "tags": [
+      "travel"
+    ],
+    "timestamp": "2026-02-02T17:21:00"
+  },
+  {
+    "message_id": "msg_53b",
+    "date": "2026-02-02",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Carla will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-02-02T17:53:00"
+  },
+  {
+    "message_id": "msg_53c",
+    "date": "2026-02-02",
+    "actor": "carla",
+    "text": "1. Stick to balanced meals with protein, veggies, and complex carbs.  \n2. Pack portable snacks like nuts or protein bars.  \n3. Choose grilled/steamed dishes over fried.  \n4. Walk extensively\u2014exploring counts as exercise.  \n5. Hydrate well and limit sugary drinks.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-02-02T18:23:00"
+  },
+  {
+    "message_id": "msg_53d",
+    "date": "2026-02-02",
+    "actor": "Rohan",
+    "text": "Thank you for the recommendations. I'll incorporate these suggestions during my travels.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-02-02T21:23:00"
+  },
+  {
+    "message_id": "msg_53_closing",
+    "date": "2026-02-02",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-02-02T21:23:00"
+  },
+  {
+    "message_id": "msg_54a",
+    "date": "2026-02-02",
+    "actor": "Rohan",
+    "text": "My strength training feels better, but cardio is exhausting me more. Any suggestions?",
+    "tags": [
+      "exercise_update"
+    ],
+    "timestamp": "2026-02-02T22:32:00"
+  },
+  {
+    "message_id": "msg_54b",
+    "date": "2026-02-02",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Rachel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-02-02T23:00:00"
+  },
+  {
+    "message_id": "msg_54c",
+    "date": "2026-02-02",
+    "actor": "rachel",
+    "text": "Assess your cardio intensity; consider reducing duration or pace, and ensure proper hydration and fueling pre-workout. Check your form for running/cycling to prevent unnecessary fatigue.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-02-02T23:00:00"
+  },
+  {
+    "message_id": "msg_54d",
+    "date": "2026-02-02",
+    "actor": "Rohan",
+    "text": "Noted. I will adjust my cardio intensity, duration, and focus on hydration/pre-workout fueling. Also, I\u2019ll pay attention to proper form during exercise. Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-02-02T23:00:00"
+  },
+  {
+    "message_id": "msg_54_closing",
+    "date": "2026-02-02",
+    "actor": "ruby",
+    "text": "Appreciate your update, take care.",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-02-02T23:00:00"
+  },
+  {
+    "message_id": "msg_55a",
+    "date": "2026-02-03",
+    "actor": "Rohan",
+    "text": "I have taken my medication today. Currently my BP is 114/88 and weight is 47.3 kg.",
+    "tags": [
+      "medication_review"
+    ],
+    "timestamp": "2026-02-03T07:32:00"
+  },
+  {
+    "message_id": "msg_55b",
+    "date": "2026-02-03",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Warren will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-02-03T08:13:00"
+  },
+  {
+    "message_id": "msg_55c",
+    "date": "2026-02-03",
+    "actor": "warren",
+    "text": "Sorry, currently not available, will reach out to you later.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-02-03T09:02:00"
+  },
+  {
+    "message_id": "msg_55d",
+    "date": "2026-02-03",
+    "actor": "Rohan",
+    "text": "Understood. Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-02-03T14:02:00"
+  },
+  {
+    "message_id": "msg_55_closing",
+    "date": "2026-02-03",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-02-03T14:02:00"
+  },
+  {
+    "message_id": "msg_56a",
+    "date": "2026-02-08",
+    "actor": "Rohan",
+    "text": "I have taken my medication today. Currently my BP is 122/84 and weight is 45.0 kg.",
+    "tags": [
+      "medication_review"
+    ],
+    "timestamp": "2026-02-08T16:02:00"
+  },
+  {
+    "message_id": "msg_56b",
+    "date": "2026-02-08",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Warren will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-02-08T16:38:00"
+  },
+  {
+    "message_id": "msg_56c",
+    "date": "2026-02-08",
+    "actor": "warren",
+    "text": "No concerning deviations in BP or weight\u2014continue current regimen. Ensure hydration and monitor for symptoms.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-02-08T17:16:00"
+  },
+  {
+    "message_id": "msg_56d",
+    "date": "2026-02-08",
+    "actor": "Rohan",
+    "text": "ok, thank you",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-02-08T21:16:00"
+  },
+  {
+    "message_id": "msg_56_closing",
+    "date": "2026-02-08",
+    "actor": "ruby",
+    "text": "Noted. Wishing you good health!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-02-08T21:16:00"
+  },
+  {
+    "message_id": "msg_57a",
+    "date": "2026-02-09",
+    "actor": "Rohan",
+    "text": "I skipped breakfast today \u2014 does that affect my cholesterol?",
+    "tags": [
+      "diet_update"
+    ],
+    "timestamp": "2026-02-09T18:29:00"
+  },
+  {
+    "message_id": "msg_57b",
+    "date": "2026-02-09",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Carla will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-02-09T19:08:00"
+  },
+  {
+    "message_id": "msg_57c",
+    "date": "2026-02-09",
+    "actor": "carla",
+    "text": "Skipping breakfast alone doesn't directly impact cholesterol levels, but it might lead to overeating later, which could affect overall dietary fat intake.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-02-09T19:42:00"
+  },
+  {
+    "message_id": "msg_57d",
+    "date": "2026-02-09",
+    "actor": "Rohan",
+    "text": "Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-02-09T21:42:00"
+  },
+  {
+    "message_id": "msg_57_closing",
+    "date": "2026-02-09",
+    "actor": "ruby",
+    "text": "Noted. Wishing you good health!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-02-09T21:42:00"
+  },
+  {
+    "message_id": "msg_58a",
+    "date": "2026-02-11",
+    "actor": "Rohan",
+    "text": "Had some fast food recently. How can I recover from that?",
+    "tags": [
+      "diet_update"
+    ],
+    "timestamp": "2026-02-11T12:55:00"
+  },
+  {
+    "message_id": "msg_58b",
+    "date": "2026-02-11",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Carla will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-02-11T13:43:00"
+  },
+  {
+    "message_id": "msg_58c",
+    "date": "2026-02-11",
+    "actor": "carla",
+    "text": "To recover from fast food, drink plenty of water, focus on whole foods (fruits, veggies, lean protein, whole grains), and avoid processed snacks for the next few meals. A short walk can help balance blood sugar.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-02-11T14:18:00"
+  },
+  {
+    "message_id": "msg_58d",
+    "date": "2026-02-11",
+    "actor": "Rohan",
+    "text": "Understood, thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-02-11T19:18:00"
+  },
+  {
+    "message_id": "msg_58_closing",
+    "date": "2026-02-11",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-02-11T19:18:00"
+  },
+  {
+    "message_id": "msg_59a",
+    "date": "2026-02-14",
+    "actor": "Rohan",
+    "text": "My recent TSH result was 0.5 uIU/mL. Is that safe?",
+    "tags": [
+      "diagnostic_test"
+    ],
+    "timestamp": "2026-02-14T08:29:00"
+  },
+  {
+    "message_id": "msg_59b",
+    "date": "2026-02-14",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Neel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-02-14T09:15:00"
+  },
+  {
+    "message_id": "msg_59c",
+    "date": "2026-02-14",
+    "actor": "neel",
+    "text": "Sorry, currently not available, will reach out to you later.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-02-14T10:00:00"
+  },
+  {
+    "message_id": "msg_59d",
+    "date": "2026-02-14",
+    "actor": "Rohan",
+    "text": "Thank you for your message. I understand and will await your response. Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-02-14T14:00:00"
+  },
+  {
+    "message_id": "msg_59_closing",
+    "date": "2026-02-14",
+    "actor": "ruby",
+    "text": "Noted. Wishing you good health!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-02-14T14:00:00"
+  },
+  {
+    "message_id": "msg_60a",
+    "date": "2026-02-16",
+    "actor": "Rohan",
+    "text": "I\u2019ve been struggling with recovery after workouts. What should I adjust?",
+    "tags": [
+      "exercise_update"
+    ],
+    "timestamp": "2026-02-16T16:41:00"
+  },
+  {
+    "message_id": "msg_60b",
+    "date": "2026-02-16",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Rachel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-02-16T17:30:00"
+  },
+  {
+    "message_id": "msg_60c",
+    "date": "2026-02-16",
+    "actor": "rachel",
+    "text": "Review your last workout logs to identify intensity/frequency issues, ensure proper post-workout nutrition/hydration, incorporate active recovery days, and focus on sleep quality. Adjust form/load if pain persists beyond typical DOMS.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-02-16T18:02:00"
+  },
+  {
+    "message_id": "msg_60d",
+    "date": "2026-02-16",
+    "actor": "Rohan",
+    "text": "Understood. I will:\n- Review my recent workout logs to assess intensity and frequency (currently medium intensity strength/cardio 5-6x/week)\n- Improve post-workout nutrition with more protein and hydration\n- Add 1-2 active recovery days per week\n- Prioritize getting at least 7 hours of sleep\nWhispering \nNote: Recent knee/back pain may need form adjustment - I'll focus on proper technique and reduce load if needed. Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-02-16T21:02:00"
+  },
+  {
+    "message_id": "msg_60_closing",
+    "date": "2026-02-16",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-02-16T21:02:00"
+  },
+  {
+    "message_id": "msg_61a",
+    "date": "2026-02-19",
+    "actor": "Rohan",
+    "text": "Had some fast food recently. How can I recover from that?",
+    "tags": [
+      "diet_update"
+    ],
+    "timestamp": "2026-02-19T10:13:00"
+  },
+  {
+    "message_id": "msg_61b",
+    "date": "2026-02-19",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Carla will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-02-19T11:01:00"
+  },
+  {
+    "message_id": "msg_61c",
+    "date": "2026-02-19",
+    "actor": "carla",
+    "text": "To recover from fast food, drink plenty of water, eat fiber-rich foods (vegetables, fruits, whole grains), and include lean proteins (chicken, fish, legumes) in your next meals. A short walk or light exercise can also help balance blood sugar.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-02-19T11:38:00"
+  },
+  {
+    "message_id": "msg_61d",
+    "date": "2026-02-19",
+    "actor": "Rohan",
+    "text": "Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-02-19T17:38:00"
+  },
+  {
+    "message_id": "msg_61_closing",
+    "date": "2026-02-19",
+    "actor": "ruby",
+    "text": "Appreciate your update, take care.",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-02-19T17:38:00"
+  },
+  {
+    "message_id": "msg_62a",
+    "date": "2026-02-23",
+    "actor": "Rohan",
+    "text": "I\u2019ll be spending a week in New Delhi. How can I keep my cholesterol under control during travel?",
+    "tags": [
+      "travel"
+    ],
+    "timestamp": "2026-02-23T14:22:00"
+  },
+  {
+    "message_id": "msg_62b",
+    "date": "2026-02-23",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Carla will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-02-23T14:48:00"
+  },
+  {
+    "message_id": "msg_62c",
+    "date": "2026-02-23",
+    "actor": "carla",
+    "text": "Stick to fiber-rich foods like whole grains, vegetables, and legumes, avoid fried street food (opt for grilled/tandoori), carry nuts/seeds for snacks, drink plenty of water, and limit sugary drinks. If you have recent weight/diet details, I can refine advice.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-02-23T15:19:00"
+  },
+  {
+    "message_id": "msg_62d",
+    "date": "2026-02-23",
+    "actor": "Rohan",
+    "text": "Noted, thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-02-23T19:19:00"
+  },
+  {
+    "message_id": "msg_62_closing",
+    "date": "2026-02-23",
+    "actor": "ruby",
+    "text": "Noted. Wishing you good health!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-02-23T19:19:00"
+  },
+  {
+    "message_id": "msg_63a",
+    "date": "2026-03-02",
+    "actor": "Rohan",
+    "text": "The new cardio plan feels harder than before. Am I overdoing it?",
+    "tags": [
+      "exercise_update"
+    ],
+    "timestamp": "2026-03-02T16:15:00"
+  },
+  {
+    "message_id": "msg_63b",
+    "date": "2026-03-02",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Rachel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-03-02T17:04:00"
+  },
+  {
+    "message_id": "msg_63c",
+    "date": "2026-03-02",
+    "actor": "rachel",
+    "text": "Assess your recovery markers: sleep quality, muscle soreness, and energy levels. Reduce intensity by 10-15% if experiencing prolonged fatigue.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-03-02T17:35:00"
+  },
+  {
+    "message_id": "msg_63d",
+    "date": "2026-03-02",
+    "actor": "Rohan",
+    "text": "- Sleep Quality: Fair (5-7 hours)\n- Muscle Soreness: None reported  \n- Energy Levels: Stable (no fatigue mentioned)  \n\nI'll adjust intensity if needed and monitor. Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-03-02T20:35:00"
+  },
+  {
+    "message_id": "msg_63_closing",
+    "date": "2026-03-02",
+    "actor": "ruby",
+    "text": "Appreciate your update, take care.",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-03-02T20:35:00"
+  },
+  {
+    "message_id": "msg_64a",
+    "date": "2026-03-16",
+    "actor": "Rohan",
+    "text": "I\u2019ll be in Barcelona next week for work. Can you suggest workouts and healthy food options while traveling?",
+    "tags": [
+      "travel"
+    ],
+    "timestamp": "2026-03-16T10:56:00"
+  },
+  {
+    "message_id": "msg_64b",
+    "date": "2026-03-16",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Carla will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-03-16T11:39:00"
+  },
+  {
+    "message_id": "msg_64c",
+    "date": "2026-03-16",
+    "actor": "carla",
+    "text": "Focus on bodyweight workouts (push-ups, squats, lunges) and walking to explore the city. For food, prioritize local markets for fresh produce, grilled seafood, and vegetable-based tapas. Carry nuts and protein bars for snacks. Need your current weight/diet details for a more tailored plan.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-03-16T12:11:00"
+  },
+  {
+    "message_id": "msg_64d",
+    "date": "2026-03-16",
+    "actor": "Rohan",
+    "text": "ok, thank you",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-03-16T14:11:00"
+  },
+  {
+    "message_id": "msg_64_closing",
+    "date": "2026-03-16",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-03-16T14:11:00"
+  },
+  {
+    "message_id": "msg_65a",
+    "date": "2026-03-16",
+    "actor": "Rohan",
+    "text": "My strength training feels better, but cardio is exhausting me more. Any suggestions?",
+    "tags": [
+      "exercise_update"
+    ],
+    "timestamp": "2026-03-16T22:09:00"
+  },
+  {
+    "message_id": "msg_65b",
+    "date": "2026-03-16",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Rachel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-03-16T22:35:00"
+  },
+  {
+    "message_id": "msg_65c",
+    "date": "2026-03-16",
+    "actor": "rachel",
+    "text": "Focus on shorter, moderate-intensity cardio sessions (e.g., 15\u201320 min) with proper pacing and hydration. Strengthen your aerobic base before increasing duration/intensity. Monitor heart rate to stay in a sustainable zone.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-03-16T23:00:00"
+  },
+  {
+    "message_id": "msg_65d",
+    "date": "2026-03-16",
+    "actor": "Rohan",
+    "text": "Understood, will focus on shorter, moderate-intensity cardio sessions. Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-03-16T23:00:00"
+  },
+  {
+    "message_id": "msg_65_closing",
+    "date": "2026-03-16",
+    "actor": "ruby",
+    "text": "Noted. Wishing you good health!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-03-16T23:00:00"
+  },
+  {
+    "message_id": "msg_66a",
+    "date": "2026-03-19",
+    "actor": "Rohan",
+    "text": "I started adding nuts and seeds to my diet. Is that beneficial?",
+    "tags": [
+      "diet_update"
+    ],
+    "timestamp": "2026-03-19T21:41:00"
+  },
+  {
+    "message_id": "msg_66b",
+    "date": "2026-03-19",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Carla will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-03-19T22:16:00"
+  },
+  {
+    "message_id": "msg_66c",
+    "date": "2026-03-19",
+    "actor": "carla",
+    "text": "Yes, adding nuts and seeds is beneficial as they provide healthy fats, protein, fiber, and essential nutrients.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-03-19T23:00:00"
+  },
+  {
+    "message_id": "msg_66d",
+    "date": "2026-03-19",
+    "actor": "Rohan",
+    "text": "Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-03-19T23:00:00"
+  },
+  {
+    "message_id": "msg_66_closing",
+    "date": "2026-03-19",
+    "actor": "ruby",
+    "text": "Appreciate your update, take care.",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-03-19T23:00:00"
+  },
+  {
+    "message_id": "msg_67a",
+    "date": "2026-03-30",
+    "actor": "Rohan",
+    "text": "I want to increase my stamina \u2014 should I focus more on cardio or strength?",
+    "tags": [
+      "exercise_update"
+    ],
+    "timestamp": "2026-03-30T12:14:00"
+  },
+  {
+    "message_id": "msg_67b",
+    "date": "2026-03-30",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Rachel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-03-30T12:44:00"
+  },
+  {
+    "message_id": "msg_67c",
+    "date": "2026-03-30",
+    "actor": "rachel",
+    "text": "Focus on cardio for stamina, but include some strength training to support endurance and prevent injury.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-03-30T13:32:00"
+  },
+  {
+    "message_id": "msg_67d",
+    "date": "2026-03-30",
+    "actor": "Rohan",
+    "text": "Acknowledged with thanks. I'll incorporate strength training alongside cardio as advised.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-03-30T18:32:00"
+  },
+  {
+    "message_id": "msg_67_closing",
+    "date": "2026-03-30",
+    "actor": "ruby",
+    "text": "Appreciate your update, take care.",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-03-30T18:32:00"
+  },
+  {
+    "message_id": "msg_68a",
+    "date": "2026-04-02",
+    "actor": "Rohan",
+    "text": "I\u2019ve been eating more fruits lately. Is this helping my condition?",
+    "tags": [
+      "diet_update"
+    ],
+    "timestamp": "2026-04-02T19:49:00"
+  },
+  {
+    "message_id": "msg_68b",
+    "date": "2026-04-02",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Carla will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-04-02T20:28:00"
+  },
+  {
+    "message_id": "msg_68c",
+    "date": "2026-04-02",
+    "actor": "carla",
+    "text": "It depends on your condition and current diet. Please share your weight, recent diet notes, and any specific health concerns so I can assess properly.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-04-02T21:15:00"
+  },
+  {
+    "message_id": "msg_68d",
+    "date": "2026-04-02",
+    "actor": "Rohan",
+    "text": "Currently, my weight is 36.2kg (BMI 24.5). My recent diet notes show increased vegetable intake. My main concerns are slightly elevated LDL (141.55) and triglycerides (161.28), borderline fasting glucose (102.94), and mild shoulder pain. I've had inconsistent sleep (6-7 hours) and missed one dose of Atorvastatin recently.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-04-02T23:00:00"
+  },
+  {
+    "message_id": "msg_68e",
+    "date": "2026-04-02",
+    "actor": "carla",
+    "text": "To address your concerns:  \n1. **Diet Adjustments** \u2013 Increase soluble fiber (oats, beans, flaxseeds) and omega-3s (fatty fish, walnuts) to lower LDL/triglycerides. Limit refined carbs/sugars to stabilize glucose.  \n2. **Supplements** \u2013 Consider psyllium husk (5g/day) for LDL and berberine (500mg pre-meals) for glucose support (consult your doctor due to Atorvastatin).  \n3. **Shoulder Pain** \u2013 Prioritize anti-inflammatory foods (turmeric, cherries, leafy greens) and ensure adequate protein (plant/lean animal sources).  \n4. **Sleep/LDL** \u2013 Maintain consistent sleep (aim for 7\u20138 hours) to support lipid metabolism. Set reminders for medication.  \n\nIf weight fluctuates below 36kg, ensure calorie-dense, nutrient-rich snacks (nuts, avocado). Recheck labs in 3 months.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-04-02T23:00:00"
+  },
+  {
+    "message_id": "msg_68f",
+    "date": "2026-04-02",
+    "actor": "Rohan",
+    "text": "Thank you for the recommendations. I will incorporate these adjustments and discuss the supplements with my doctor. I\u2019ll also prioritize sleep and set medication reminders.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-04-02T23:00:00"
+  },
+  {
+    "message_id": "msg_68_closing",
+    "date": "2026-04-02",
+    "actor": "ruby",
+    "text": "Noted. Wishing you good health!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-04-02T23:00:00"
+  },
+  {
+    "message_id": "msg_69a",
+    "date": "2026-04-06",
+    "actor": "Rohan",
+    "text": "I\u2019ll be spending a week in Cape Town. How can I keep my cholesterol under control during travel?",
+    "tags": [
+      "travel"
+    ],
+    "timestamp": "2026-04-06T16:04:00"
+  },
+  {
+    "message_id": "msg_69b",
+    "date": "2026-04-06",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Carla will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-04-06T16:39:00"
+  },
+  {
+    "message_id": "msg_69c",
+    "date": "2026-04-06",
+    "actor": "carla",
+    "text": "To manage cholesterol while traveling:  \n- Prioritize fiber-rich foods (oats, legumes, fruits).  \n- Choose lean proteins (fish, chicken) and limit red meat.  \n- Opt for healthy fats (avocados, nuts, olive oil).  \n- Avoid processed snacks; carry nuts or fruit.  \n- Stay hydrated and limit alcohol.  \n- If dining out, request grilled/baked options over fried.  \n- Maintain light activity (walking, stairs).  \n\nProvide your current diet/weight for tailored tips.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-04-06T17:27:00"
+  },
+  {
+    "message_id": "msg_69d",
+    "date": "2026-04-06",
+    "actor": "Rohan",
+    "text": "Recently my weight is 34.6kg, and I've been increasing vegetable intake in my diet.  \n\nI'll share these details for more tailored tips. Thank you.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-04-06T22:27:00"
+  },
+  {
+    "message_id": "msg_69_closing",
+    "date": "2026-04-06",
+    "actor": "ruby",
+    "text": "Appreciate your update, take care.",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-04-06T22:27:00"
+  },
+  {
+    "message_id": "msg_70a",
+    "date": "2026-04-07",
+    "actor": "Rohan",
+    "text": "I have taken my medication today. Currently my BP is 105/106 and weight is 34.8 kg.",
+    "tags": [
+      "medication_review"
+    ],
+    "timestamp": "2026-04-07T11:44:00"
+  },
+  {
+    "message_id": "msg_70b",
+    "date": "2026-04-07",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Warren will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-04-07T12:31:00"
+  },
+  {
+    "message_id": "msg_70c",
+    "date": "2026-04-07",
+    "actor": "warren",
+    "text": "*Critical Alert: Systolic/Diastolic inversion (105/106 mmHg) is physiologically impossible. Verify BP measurement technique immediately with proper cuff size and patient positioning.*",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-04-07T13:03:00"
+  },
+  {
+    "message_id": "msg_70d",
+    "date": "2026-04-07",
+    "actor": "Rohan",
+    "text": "I\u2019ll verify the BP measurement technique immediately, ensuring proper cuff size and patient positioning, and report back with corrected values. Thank you for catching this error so promptly.",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-04-07T17:03:00"
+  },
+  {
+    "message_id": "msg_70_closing",
+    "date": "2026-04-07",
+    "actor": "ruby",
+    "text": "Noted. Wishing you good health!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-04-07T17:03:00"
+  },
+  {
+    "message_id": "msg_71a",
+    "date": "2026-04-13",
+    "actor": "Rohan",
+    "text": "The new cardio plan feels harder than before. Am I overdoing it?",
+    "tags": [
+      "exercise_update"
+    ],
+    "timestamp": "2026-04-13T12:21:00"
+  },
+  {
+    "message_id": "msg_71b",
+    "date": "2026-04-13",
+    "actor": "ruby",
+    "text": "I understand your question. Dr. Rachel will respond to you shortly.",
+    "tags": [
+      "elyx_redirect"
+    ],
+    "timestamp": "2026-04-13T12:59:00"
+  },
+  {
+    "message_id": "msg_71c",
+    "date": "2026-04-13",
+    "actor": "rachel",
+    "text": "Sorry, currently not available, will reach out to you later.",
+    "tags": [
+      "elyx_reply"
+    ],
+    "timestamp": "2026-04-13T13:36:00"
+  },
+  {
+    "message_id": "msg_71d",
+    "date": "2026-04-13",
+    "actor": "Rohan",
+    "text": "ok, thank you",
+    "tags": [
+      "followup"
+    ],
+    "timestamp": "2026-04-13T19:36:00"
+  },
+  {
+    "message_id": "msg_71_closing",
+    "date": "2026-04-13",
+    "actor": "ruby",
+    "text": "Thanks Rohan, we\u2019ll stay in touch. Have a great day!",
+    "tags": [
+      "closing"
+    ],
+    "timestamp": "2026-04-13T19:36:00"
+  }
+]
