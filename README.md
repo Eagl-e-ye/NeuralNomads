@@ -15,7 +15,9 @@ The system not only tracks conversations but also:
 - **Tracks decisions** made by experts and explains their rationale.  
 - **Generates structured logs** (conversations, decisions, patient snapshots, operational metrics).  
 
-**All the conversations are using llms mentioned earlier**
+⚠️ **Note:** All the conversations are generated using **LLMs (DeepSeek R1 630B)** and are AI-simulated.
+
+---
 
 ## 🏗️ Simulation Design
 
@@ -73,20 +75,16 @@ Each expert has a **system prompt persona**:
 - `ask_actor_decision()` → asks the expert persona to explain reasoning.  
 
 ### 📊 Metrics & Logging
-- `update_ops_metrics()` → logs time/messages per expert.  
-- `generate_patient_summary()` → builds short patient data summaries.  
-- JSON outputs:
-  - `chats.json` → full conversation logs  
-  - `decisions.json` → extracted expert decisions  
-  - `patient_snapshots.json` → daily patient health states  
-  - `conversation_duration.json` → conversation time per event  
-  - `final_patient_data.json` → final patient state after 8 months  
+The simulation produces **multiple structured outputs** (all attached in this repository):
 
-### ▶️ Simulation Runner
-- `run_simulation()` → main loop:
-  - Runs daily updates for 8 months.  
-  - Handles event-driven conversations.  
-  - Stores outputs into JSON files.  
+- `CHATS_OUTPUT_.txt` → **Human-readable transcript of all chats**.  
+- `chats.json` → Full structured conversation logs with metadata.  
+- `decisions.json` → Extracted expert decisions and their rationale.  
+- `patient_snapshots.json` → Daily patient health states (vitals, labs, adherence).  
+- `conversation_duration.json` → Time and length of conversations per event.  
+- `final_patient_data.json` → Final patient state after 8 months.  
+
+👉 These files clearly demonstrate how the simulation ran end-to-end and are essential to understanding the project.
 
 ---
 
