@@ -18,7 +18,22 @@ The system not only tracks conversations but also:
 ⚠️ **Note:** All the conversations are generated using **LLMs (DeepSeek R1 630B)** and are AI-simulated.
 
 ---
+## 🖥️ Webpage Visualization
+A **webpage interface** is included to visualize how the simulation took place.  
+- It loads the JSON files (`chats.json`, `decisions.json`, etc.).  
+- Displays **conversation timelines** between the patient and experts.  
+- Highlights **decision points** and operational metrics.  
 
+This allows a clear replay of the 8-month simulation in a user-friendly format.
+
+---
+
+## 🖼️ Demo & Screenshots
+The `screenshots/` folder contains:
+- Example screenshots of patient–expert conversations.  
+- A walkthrough **video demo** showing how the simulation unfolds.  
+
+---
 ## 🏗️ Simulation Design
 
 ### Personas (Experts)
@@ -97,22 +112,6 @@ The simulation produces **multiple structured outputs** (all attached in this re
 
 ---
 
-## 🖥️ Webpage Visualization
-A **webpage interface** is included to visualize how the simulation took place.  
-- It loads the JSON files (`chats.json`, `decisions.json`, etc.).  
-- Displays **conversation timelines** between the patient and experts.  
-- Highlights **decision points** and operational metrics.  
-
-This allows a clear replay of the 8-month simulation in a user-friendly format.
-
----
-
-## 🖼️ Demo & Screenshots
-The `screenshots/` folder contains:
-- Example screenshots of patient–expert conversations.  
-- A walkthrough **video demo** showing how the simulation unfolds.  
-
----
 
 ## ⚙️ Requirements
 - Python 3.9+  
