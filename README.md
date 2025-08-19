@@ -35,22 +35,11 @@ The `screenshots/` folder contains:
 
 ## 🖼️ Screenshots
 
-<div style="display: flex; align-items: flex-start;">
-  
-  <!-- Left column with 3 stacked images -->
-  <div style="flex: 1; padding-right: 10px;">
-    <img src="Screenshots/Screenshot%202025-08-19%20204444.png" width="50%"><br>
-    <img src="Screenshots/Screenshot%202025-08-19%20204519.png" width="50%"><br>
-    <img src="Screenshots/Screenshot%202025-08-19%20204606.png" width="50%">
-  </div>
-
-  <!-- Right column with 1 large image -->
-  <div style="flex: 1; padding-left: 10px;">
-    <img src="Screenshots/Screenshot_2025-08-18-11-21-57-42_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" width="50%">
-  </div>
-
-</div>
-
+<p align="center">
+  <img src="Screenshots/Screenshot%202025-08-19%20204444.png" width="30%">
+  <img src="Screenshots/Screenshot%202025-08-19%20204519.png" width="30%">
+  <img src="Screenshots/Screenshot%202025-08-19%20204606.png" width="30%">
+</p>
 
 ---
 ## 🏗️ Simulation Design
