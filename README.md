@@ -30,6 +30,7 @@ This allows a clear replay of the 8-month simulation in a user-friendly format.
 
 ## 🖼️ Demo & Screenshots
 **CHATS_OUTPUT_.txt** → **Human-readable transcript of all chats**. 
+
 The `screenshots/` folder contains:
 - Example screenshots of patient–expert conversations.  
 - A walkthrough **video demo** showing how the simulation unfolds.
