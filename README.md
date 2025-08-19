@@ -41,6 +41,9 @@ The `screenshots/` folder contains:
   <img src="Screenshots/Screenshot%202025-08-19%20204606.png" width="30%">
 </p>
 
+## 🎥 Demo Video
+[▶️ Watch the demo](Screenshots/how%20to%20use.mp4)
+
 ---
 ## 🏗️ Simulation Design
 
