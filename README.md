@@ -31,7 +31,14 @@ This allows a clear replay of the 8-month simulation in a user-friendly format.
 ## 🖼️ Demo & Screenshots
 The `screenshots/` folder contains:
 - Example screenshots of patient–expert conversations.  
-- A walkthrough **video demo** showing how the simulation unfolds.  
+- A walkthrough **video demo** showing how the simulation unfolds.
+- 
+## 🖼️ Screenshots
+
+![Chat Screenshot 1](Screenshots/Screenshot_2025-08-18-11-21-57-42_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)  
+![Chat Screenshot 2](Screenshots/Screenshot%202025-08-19%20204444.png)  
+![Chat Screenshot 3](Screenshots/Screenshot%202025-08-19%20204519.png)  
+![Chat Screenshot 4](Screenshots/Screenshot%202025-08-19%20204606.png)
 
 ---
 ## 🏗️ Simulation Design
