@@ -32,24 +32,25 @@ This allows a clear replay of the 8-month simulation in a user-friendly format.
 The `screenshots/` folder contains:
 - Example screenshots of patient–expert conversations.  
 - A walkthrough **video demo** showing how the simulation unfolds.
-- 
+
 ## 🖼️ Screenshots
 
-<table>
-  <tr>
-    <!-- Left column (3 stacked images) -->
-    <td width="50%">
-      <img src="Screenshots/Screenshot 2025-08-19 204444.png" width="100%"/><br/>
-      <img src="Screenshots/Screenshot 2025-08-19 204519.png" width="100%"/><br/>
-      <img src="Screenshots/Screenshot 2025-08-19 204606.png" width="100%"/>
-    </td>
+<div style="display: flex; align-items: flex-start;">
+  
+  <!-- Left column with 3 stacked images -->
+  <div style="flex: 1; padding-right: 10px;">
+    <img src="Screenshots/Screenshot%202025-08-19%20204444.png" width="100%"><br>
+    <img src="Screenshots/Screenshot%202025-08-19%20204519.png" width="100%"><br>
+    <img src="Screenshots/Screenshot%202025-08-19%20204606.png" width="100%">
+  </div>
 
-    <!-- Right column (single large image) -->
-    <td width="50%">
-      <img src="Screenshots/Screenshot_2025-08-18-11-21-57-42_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" width="100%"/>
-    </td>
-  </tr>
-</table>
+  <!-- Right column with 1 large image -->
+  <div style="flex: 1; padding-left: 10px;">
+    <img src="Screenshots/Screenshot_2025-08-18-11-21-57-42_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" width="100%">
+  </div>
+
+</div>
+
 
 ---
 ## 🏗️ Simulation Design
