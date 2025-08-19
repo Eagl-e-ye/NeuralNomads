@@ -92,7 +92,7 @@ Each expert has a **system prompt persona**:
 ### 📊 Metrics & Logging
 The simulation produces **multiple structured outputs** (all attached in this repository):
 
-- `CHATS_OUTPUT_.txt` → **Human-readable transcript of all chats**.  
+** - `CHATS_OUTPUT_.txt` → **Human-readable transcript of all chats**.  **
 - `chats.json` → Full structured conversation logs with metadata.  
 - `decisions.json` → Extracted expert decisions and their rationale.  
 - `patient_snapshots.json` → Daily patient health states (vitals, labs, adherence).  
