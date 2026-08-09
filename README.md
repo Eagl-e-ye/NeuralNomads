@@ -1,4 +1,5 @@
-# Elyx Chatbot Simulation
+# NeuralNomads
+## Elyx Chatbot Simulation
 
 ## 📌 Overview
 This project is an **8-month long chatbot simulation** that models interactions between a patient and a team of virtual healthcare experts.  
