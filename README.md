@@ -1,5 +1,3 @@
-# NeuralNomads
-
 # Elyx Chatbot Simulation
 
 ## 📌 Overview
